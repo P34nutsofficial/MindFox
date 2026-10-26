@@ -2,18 +2,11 @@
   "version": 1,
   "topics": [
     {
-      "id": "chaos",
-      "title": "Gemischt / Chaos-Modus",
-      "category": "Gemischt / Chaos-Modus",
-      "free": true,
-      "productId": ""
-    },
-    {
       "id": "bizarre",
       "title": "Bizarres Halbwissen & Kuriose Gesetze",
       "category": "Bizarres Halbwissen & Kuriose Gesetze",
-      "free": false,
-      "productId": "mindfox_topic_bizarre_099"
+      "free": true,
+      "productId": ""
     },
     {
       "id": "animals",

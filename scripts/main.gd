@@ -41,7 +41,8 @@ const GAME_RULES := preload("res://scripts/game_rules.gd")
 const GLASS_SHADER := preload("res://shaders/glass_panel.gdshader")
 const NEON_SHADER := preload("res://shaders/neon_pulse.gdshader")
 const FOIL_SHADER := preload("res://shaders/foil_holographic.gdshader")
-const DISCOVERY_CATEGORIES := ["Bizarres Halbwissen & Kuriose Gesetze", "Verrückte Tierwelt & Natur", "Absurde Geschichte & Erfindungen", "Gemischt / Chaos-Modus"]
+const DISCOVERY_CATEGORIES := ["Bizarres Halbwissen & Kuriose Gesetze", "Verrückte Tierwelt & Natur", "Absurde Geschichte & Erfindungen"]
+const ALL_AVAILABLE_CATEGORY := "Geben Alles"
 const AVATAR_NAMES := AVATAR_CATALOG.NAMES
 const AVATAR_ICONS := AVATAR_CATALOG.LABELS
 const AVATAR_IMAGES: Array[Texture2D] = AVATAR_CATALOG.IMAGES
@@ -148,7 +149,7 @@ var native_vote_ack_timeout := 0.0
 var native_score_status: Dictionary = {"ownScore": 0, "leaderScore": 0, "leaderName": "Noch offen"}
 var native_room_players: Array = []
 var native_lobby_rounds := 8
-var native_lobby_category := "Gemischt / Chaos-Modus"
+var native_lobby_category := "Geben Alles"
 var native_gate_ready := false
 var native_question_label: Label
 var native_round_label: Label
@@ -174,7 +175,7 @@ var estimation_question_order: Array = []
 var estimation_questions_available := false
 var tiebreak_active := false
 var tiebreak_players: Array[String] = []
-var selected_category := "Gemischt / Chaos-Modus"
+var selected_category := "Bizarres Halbwissen & Kuriose Gesetze"
 var selected_avatar := 0
 var selected_avatar_tint := 0
 var selected_avatar_expression := 0
@@ -247,6 +248,7 @@ func _ready() -> void:
 	_load_showrunner()
 	Monetization.topic_unlocked.connect(_on_topic_unlocked)
 	Monetization.purchase_unavailable.connect(_on_topic_purchase_unavailable)
+	Monetization.restore_status.connect(_on_restore_status)
 	_reset_players()
 	_build_shell()
 	_set_game_orientation(true)
@@ -2234,9 +2236,20 @@ func _show_lobby() -> void:
 		category_button.custom_minimum_size.y = 48
 		category_button.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 		category_button.add_theme_font_size_override("font_size", 11)
-		category_button.tooltip_text = "Kostenlos enthalten" if topic_unlocked else "Einmalig 0,99 € im Play Store freischalten"
+		var localized_price := Monetization.topic_price_label(category)
+		category_button.tooltip_text = "Freigeschaltet" if topic_unlocked else ("Einmalig %s im Play Store freischalten" % localized_price if not localized_price.is_empty() else "Einmaliger Play-Store-Kauf; dein Preis wird dort angezeigt")
 		category_actions.add_child(category_button)
 	category_box.add_child(category_actions)
+	category_box.add_child(_label("ODER · ALLE FREIGESCHALTETEN THEMEN", 12, COLOR_ACCENT, true))
+	category_box.add_child(_label("Mischt das Gratis-Thema mit allen Themen, die du gekauft hast.", 12, COLOR_MUTED, false))
+	var all_available_button := _button(("✓ " if selected_category == ALL_AVAILABLE_CATEGORY else "🎲 ") + ALL_AVAILABLE_CATEGORY.to_upper(), Color(COLOR_PURPLE, 0.22) if selected_category == ALL_AVAILABLE_CATEGORY else Color(COLOR_SURFACE_2, 0.84), Callable(self, "_select_category"), [ALL_AVAILABLE_CATEGORY])
+	all_available_button.custom_minimum_size.y = 48
+	all_available_button.size_flags_horizontal = Control.SIZE_EXPAND_FILL
+	category_box.add_child(all_available_button)
+	if OS.get_name() == "Android":
+		var restore_button := _button("KÄUFE WIEDERHERSTELLEN", Color(COLOR_SURFACE_2, 0.68), Callable(Monetization, "restore_purchases"))
+		restore_button.custom_minimum_size.y = 42
+		category_box.add_child(restore_button)
 
 	var network_join_card := _card(Color("101b35"), Color(COLOR_CYAN, 0.48))
 	columns.add_child(network_join_card)
@@ -2378,28 +2391,36 @@ func _return_to_home() -> void:
 	_show_welcome()
 
 func _select_category(category: String) -> void:
+	if category == ALL_AVAILABLE_CATEGORY:
+		selected_category = ALL_AVAILABLE_CATEGORY
+		_show_lobby()
+		return
 	if DISCOVERY_CATEGORIES.has(category):
 		if not Monetization.is_topic_unlocked(category):
 			if Monetization.purchase_topic(category):
 				if feedback_label != null and is_instance_valid(feedback_label):
-					feedback_label.text = "Play-Store-Kauf geöffnet. Nach erfolgreicher Zahlung wird das Thema dauerhaft freigeschaltet."
-			else:
-				if feedback_label != null and is_instance_valid(feedback_label):
-					feedback_label.text = "Käufe sind in dieser Testversion noch nicht konfiguriert."
+					feedback_label.text = "Der Play-Store-Kauf wird vorbereitet. Nach erfolgreicher Zahlung wird das Thema dauerhaft freigeschaltet."
 			if feedback_label != null and is_instance_valid(feedback_label):
 				feedback_label.add_theme_color_override("font_color", COLOR_ACCENT)
-			return
-		selected_category = category
-		_show_lobby()
+				return
+			selected_category = category
+			_show_lobby()
 
 func _on_topic_unlocked(category: String) -> void:
 	if app_mode == "HOST" and phase == Phase.LOBBY:
-		selected_category = category
+		if selected_category != ALL_AVAILABLE_CATEGORY:
+			selected_category = category
 		_show_lobby()
 
 func _on_topic_purchase_unavailable(category: String) -> void:
 	if feedback_label != null and is_instance_valid(feedback_label):
-		feedback_label.text = "Thema noch nicht verfügbar – Play-Billing-ID wird vor dem Store-Release konfiguriert."
+		var topic_name := "Play-Store-Kauf" if category.is_empty() else "„%s“" % category
+		feedback_label.text = "%s ist gerade nicht verfügbar. Prüfe deine Play-Store-Verbindung und versuche es erneut." % topic_name
+		feedback_label.add_theme_color_override("font_color", COLOR_ACCENT)
+
+func _on_restore_status(message: String) -> void:
+	if feedback_label != null and is_instance_valid(feedback_label):
+		feedback_label.text = message
 		feedback_label.add_theme_color_override("font_color", COLOR_ACCENT)
 
 func _player_avatar_text(player: Dictionary) -> String:
@@ -3533,19 +3554,22 @@ func _question_for_round(index: int) -> Dictionary:
 func _prepare_question_order() -> void:
 	var normal_pool: Array = []
 	var estimate_pool: Array = []
+	var available_categories: PackedStringArray = Monetization.available_topic_categories()
 	for question in questions:
 		if not (question is Dictionary):
 			continue
 		if question.has("estimate_value"):
 			estimate_pool.append(question.duplicate(true))
-		elif selected_category == "Gemischt / Chaos-Modus" or str(question.get("category", "")) == selected_category:
-			normal_pool.append(question.duplicate(true))
-	if normal_pool.is_empty():
-		for question in questions:
-			if question is Dictionary and not question.has("estimate_value"):
+		else:
+			var question_category := str(question.get("category", ""))
+			if (selected_category == ALL_AVAILABLE_CATEGORY and available_categories.has(question_category)) or (selected_category != ALL_AVAILABLE_CATEGORY and question_category == selected_category):
 				normal_pool.append(question.duplicate(true))
 	if normal_pool.is_empty():
-		normal_pool = questions.duplicate(true)
+		for question in questions:
+			if question is Dictionary and not question.has("estimate_value") and available_categories.has(str(question.get("category", ""))):
+				normal_pool.append(question.duplicate(true))
+	if normal_pool.is_empty():
+		push_warning("Keine freigeschalteten Themenfragen verfügbar.")
 	estimation_questions_available = not estimate_pool.is_empty()
 	question_order = _unseen_questions_first(normal_pool)
 	estimation_question_order = _unseen_questions_first(estimate_pool)
@@ -4547,7 +4571,7 @@ func _on_brand_gui_input(event: InputEvent) -> void:
 func _show_hidden_settings() -> void:
 	var dialog := AcceptDialog.new()
 	dialog.title = _ui_text("mf.settings.title", "Einstellungen")
-	dialog.dialog_text = "MindFox\nVersion: %s\nBuild: %s" % [str(ProjectSettings.get_setting("application/config/version", "unbekannt")), str(ProjectSettings.get_setting("application/config/build", "40"))]
+	dialog.dialog_text = "MindFox\nVersion: %s\nBuild: %s" % [str(ProjectSettings.get_setting("application/config/version", "unbekannt")), str(ProjectSettings.get_setting("application/config/build", "1"))]
 	var box := VBoxContainer.new()
 	box.add_theme_constant_override("separation", 8)
 	var diagnosis := _button("DIAGNOSE", Color(COLOR_PURPLE, 0.20), Callable(self, "_copy_diagnostics"))

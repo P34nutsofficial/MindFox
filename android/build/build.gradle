@@ -253,6 +253,7 @@ android {
 
     sourceSets {
         main.res.srcDirs += ['res']
+        main.res.exclude '**/*.import'
         debug.jniLibs.srcDirs = ['libs/debug', 'libs/debug/vulkan_validation_layers']
         release.jniLibs.srcDirs = ['libs/release']
     }
@@ -265,8 +266,24 @@ android {
     }
 }
 
+tasks.register('removeGodotImportSidecars') {
+    doLast {
+        ['res', 'assetPackInstallTime/src/main/assets'].each { relativePath ->
+            fileTree("${projectDir}/${relativePath}").matching {
+                include '**/*.import'
+            }.files.each { sidecar ->
+                sidecar.delete()
+            }
+        }
+    }
+}
+
+tasks.named('preBuild').configure {
+    dependsOn('removeGodotImportSidecars')
+}
+
 task copyAndRenameBinary(type: Copy) {
-    // The 'doNotTrackState' is added to disable gradle's up-to-date checks for output files
+    // The 'doNotTrackState' is added to disable up-to-date checks for output files
     // and directories. Otherwise this check may cause permissions access failures on Windows
     // machines.
     doNotTrackState("No need for up-to-date checks for the copy-and-rename operation")

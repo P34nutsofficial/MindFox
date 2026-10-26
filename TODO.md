@@ -61,7 +61,7 @@
 ## Release Candidate v1.0.0-rc – Massive Content Expansion, Discovery & Juicy FX
 
 - [x] UDP-Broadcast-Auto-Discovery auf Port 41234 sendet alle 1,5 Sekunden Raumcode, Hostname, Spielerzahl, WebSocket-Port, Kategorie und Host-IP; Join zeigt gefundene Spiele als animierte One-Tap-Liste und behält „Manuell eingeben“ als Fallback.
-- [x] Der lokale Fragenkatalog enthält 108 deutsche, familien-/party-taugliche Trivia-Einträge in den vier Host-Kategorien „Bizarres Halbwissen & Kuriose Gesetze“, „Verrückte Tierwelt & Natur“, „Absurde Geschichte & Erfindungen“ und „Gemischt / Chaos-Modus“; jeder Eintrag hat Wahrheit, zwei Fallback-Decoys, Kategorie, Schwierigkeit und Reveal-Erklärung.
+- [x] Der lokale Fragenkatalog enthält 1.100 deutsche Fragen: 270 zu „Bizarres Halbwissen & Kuriose Gesetze“, 269 zur „Verrückten Tierwelt & Natur“, 261 zu „Absurder Geschichte & Erfindungen“ und 300 Schätzfragen. „Geben Alles“ mischt nur Themen, die kostenlos verfügbar oder gekauft sind.
 - [x] Host kann die aktive Kategorie in der Lobby wählen; Kategorie-Badge wird in Fragekarte und nativer Clientansicht angezeigt.
 - [x] Join-Avatar-Creator bietet fünf prozedurale/vectorartige Figuren, fünf Farbtints und vier Ausdrücke; Profil wird im nativen Connect-Protokoll und in der Host-Lobby geführt.
 - [x] Correct-Reveal-/Bluff-/Podium-Juice nutzt vorhandene prozedurale Partikel, Comic-Reactions, Audio-Harmonik und differenzierte Haptikmuster; Countdown besitzt einen optionalen prozeduralen Spannungspuls in den letzten zehn Sekunden.

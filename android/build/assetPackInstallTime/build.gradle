@@ -1,7 +1,6 @@
 plugins {
     id 'com.android.asset-pack'
 }
-
 assetPack {
     packName = "assetPackInstallTime" // Directory name for the asset pack
     dynamicDelivery {

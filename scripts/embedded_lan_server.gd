@@ -39,7 +39,7 @@ var discovery_ready := false
 var discovery_elapsed := 0.0
 var discovery_player_count := 0
 var discovery_host_name := "Bluff-Host"
-var discovery_category := "Gemischt / Chaos-Modus"
+var discovery_category := "Bizarres Halbwissen & Kuriose Gesetze"
 var session_tokens: Dictionary = {}
 
 signal gate_completed(kind: String)

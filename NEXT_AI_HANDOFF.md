@@ -1,6 +1,6 @@
 # MindFox – Übergabe an die nächste KI
 
-Stand: 2026-10-24, Release 1.4.0, Android-Versioncode 40.
+Stand: 2026-10-26, Play-Uploadversion 1.0, Android-Versioncode 1.
 
 ## Produkt
 
@@ -10,11 +10,15 @@ Der Spielfluss ist: Lobby → Ready-Gate → falsche Antwort → Abstimmung → 
 
 ## Technischer Stand
 
-`project.godot` meldet Version 1.4.0. Die Android-Presets verwenden Versioncode 40 und Version 1.4.0, Paket-ID `com.manus.mindfox`, Hochformat und die bisherigen Netzwerkberechtigungen. Der Host liegt in `scripts/main.gd`, der eingebettete Dienst in `scripts/embedded_lan_server.gd`, der native Client in `scripts/native_player_client.gd`.
+`project.godot` meldet Version 1.0 und Build 1. Die Android-Presets verwenden Versioncode 1 und Version 1.0, Paket-ID `com.p34nutsofficial.mindfox`, Hochformat und Netzwerkberechtigungen. Der Host liegt in `scripts/main.gd`, der eingebettete Dienst in `scripts/embedded_lan_server.gd`, der native Client in `scripts/native_player_client.gd`.
 
 Reconnects verwenden Spieler-ID und Session-Token. Ein kurzzeitiger Disconnect pausiert einen Spieler 45 Sekunden; Bluff, Vote, Rolle, Avatar und Punktestand bleiben erhalten. Discovery-Einträge verfallen nach 4,5 Sekunden. App-Resume löst höchstens eine kontrollierte Wiederverbindung über die gespeicherten letzten Verbindungsdaten aus.
 
 Der optionale Browser-Controller in `web/client/` ist unabhängig von TV-Funktionen und verwendet `audio.js`; native Spielerkommunikation bleibt der primäre Pfad.
+
+## Monetarisierung
+
+`addons/GodotGooglePlayBilling/` bindet Play Billing 3.3 ein. `data/topics.json` definiert drei Themen: „Bizarres Halbwissen & Kuriose Gesetze“ ist gratis; „Verrückte Tierwelt & Natur“ und „Absurde Geschichte & Erfindungen“ sind nicht-verbrauchbare Produkte `mindfox_topic_animals_099` und `mindfox_topic_history_099` (je 0,99 €). „Geben Alles“ mischt ausschließlich freigeschaltete Themen. Käufe werden wiederhergestellt; AdMob wird außerhalb Android nicht initialisiert.
 
 ## Daten
 
@@ -27,7 +31,7 @@ Der zentrale Prüfpfad ist `tools/verify.sh`. Er prüft Projektidentität, Versi
 Nach Änderungen ausführen:
 
 ```bash
-cd /home/ubuntu/work/mindfox
+cd /home/ubuntu/MindFox-upload/MindFox
 ./tools/verify.sh
 ```
 
