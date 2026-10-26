@@ -1,0 +1,2105 @@
+{
+  "version": 2,
+  "tasks": [
+    {
+      "id": "d001",
+      "text": "不使用双手，至少从你的杯子或瓶子里啜饮6次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d002",
+      "text": "游戏过程中，轻轻抚摸你左边邻座的上臂4次，并低声说：“一切很快都会好起来的。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d003",
+      "text": "在这一轮中，把鞋带（或鞋子）解开再系好5次，动作要刻意放慢。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d004",
+      "text": "在不同的回合里，用一本正经的语气说5次：“不过哈佛的科学家已经推翻这个说法了。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d005",
+      "text": "在4个不同回合结束时，戏剧性地捂住眼睛，至少持续10秒。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d006",
+      "text": "至少让3位不同的玩家和你击掌，但不要说出原因。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d007",
+      "text": "每当计时器低于10秒时，就大声弹舌一次，总共8次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d008",
+      "text": "游戏中有6句话要以轻声的“……哈利路亚！”结尾。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d009",
+      "text": "至少5次把下巴平放在桌面上，每次持续10秒，并默默地直视前方。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d010",
+      "text": "像是要给一把着火的手枪降温一样，轻轻朝自己的指关节吹气6次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d011",
+      "text": "用担忧的眼神环顾大家，问4次：“有人闻到爆米花烧焦的味道吗？”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d012",
+      "text": "游戏过程中，偷偷把邻座的一件物品（例如笔、杯垫）放进自己的裤兜里。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d013",
+      "text": "坐着向主持人的手机深深鞠躬3次，并喃喃道：“感谢你的智慧。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d014",
+      "text": "连续整整两个回合只用耳语说话，不管其他人笑得多大声。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d015",
+      "text": "用力耸动右肩5次，仿佛突然触电了一样。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d016",
+      "text": "4次把其他玩家的回答称为“在烹饪方面极其令人质疑”。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d017",
+      "text": "夸张地深深闻自己的T恤领口6次，然后满意地点点头。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d018",
+      "text": "问某人同一个问题3次（“你今天到底开过窗通风了吗？”），表现得像是自己忘了问过。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d019",
+      "text": "连续3个回合，只用自己不擅长那只手的拇指输入所有答案。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d020",
+      "text": "接连打5次夸张的大哈欠，并至少传染给一位玩家。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d021",
+      "text": "对着记分板评论4次：“上面那些人纯粹是新手运气好！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d022",
+      "text": "连续2轮双手把手机举到鼻子前，像拿着一片脆面包一样。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d023",
+      "text": "用拇指和食指在上唇上抹8次，仿佛自己长着一大把胡子。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d024",
+      "text": "未经对方同意，3次邀请对方喝一口你杯中的饮料，并在最后一刻笑着把杯子缩回来。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d025",
+      "text": "游戏过程中深深地、戏剧性地、大声叹气7次。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 7
+    },
+    {
+      "id": "d026",
+      "text": "用袖子在椅子或裤腿上擦5次，并嘟囔：“怎么老是有这些毛絮。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d027",
+      "text": "在4次回合开始时，满怀期待地搓搓手，像苍蝇搓手等着吃蛋糕。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d028",
+      "text": "交谈时使用5次老派词语“荒唐至极！”。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d029",
+      "text": "每次提交答案后，恰好让手机在桌上转3圈。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d030",
+      "text": "每次揭晓结果后，对3位不同的人冷冷地说：“我就知道你会这样。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d031",
+      "text": "投票时一脸严肃地挠左眉毛6次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d032",
+      "text": "至少在3道题时斩钉截铁地声称，你姑妈恰好写过一本关于这个的书。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d033",
+      "text": "像漫画里的反派一样大声、邪恶地笑一次，至少持续10秒。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d034",
+      "text": "用指关节从下方敲桌面5次，并假装不是你干的。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d035",
+      "text": "朝着吸顶灯失望地摇头4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d036",
+      "text": "向3位不同的玩家询问：“你确定你的电量还够吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d037",
+      "text": "遇到5道题时，把一只平手举在额头上方，像戴着遮阳帽一样，以便看清屏幕。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d038",
+      "text": "用力说4次：“永远不要相信打字比思考快的人。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d039",
+      "text": "游戏过程中偷偷把纸餐巾或纸条折成一只小船。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d040",
+      "text": "在椅子上坐立不安地来回挪动6次，并抱怨坐垫太差。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d041",
+      "text": "在3个不同回合中毫无关联地引用：“愿原力与我们同在。”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d042",
+      "text": "偷偷把所有玩家的杯子或瓶子按大小准确排列好。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d043",
+      "text": "在一整轮估算中始终紧紧闭着左眼。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d044",
+      "text": "每次投票后说5次：“我的直觉从来没骗过我！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d045",
+      "text": "4次故作吃力地按摩太阳穴，嘟囔：“知识太密集了。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d046",
+      "text": "8次夸张地把袖子卷到肘部，然后很快又放下来。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d047",
+      "text": "游戏进行到一半时问3次现在准确时间，尽管你的智能手机就在面前。",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d048",
+      "text": "游戏过程中神秘地向右边的邻座眨5次眼。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d049",
+      "text": "每轮结算后用两根手指在桌沿上敲一小段鼓点。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d050",
+      "text": "庄严地宣布3次：“从现在起，我绝不手下留情！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d051",
+      "text": "每轮估算时都把智能手机平放在头顶，5秒后再拿下来。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d052",
+      "text": "整整一轮都用夸张的高贵腔调说话（“那是自然！”）。",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d053",
+      "text": "让2名玩家同时拿着杯子或瓶子伸向你，和你碰杯。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d054",
+      "text": "用力挠下巴6次，同时若有所思地说：“啊哈……原来如此……”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d055",
+      "text": "面对4个问题时声称：“上周的星座运势里就是这么写的！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d056",
+      "text": "每轮结算时，双手各弹指，恰好弹三下。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d057",
+      "text": "戏剧性地在头顶击掌3次，并大喊：“丑闻！”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d058",
+      "text": "把椅子往远离桌子的方向挪至少十厘米，挪4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d059",
+      "text": "严肃地看着一个人说：“你那儿有东西……”然后指指自己的鼻子。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d060",
+      "text": "用手背擦额头5次，再抖掉想象中的汗水。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d061",
+      "text": "评论4个回答时说：“我的狗都能比这估算得更有逻辑。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d062",
+      "text": "连续两整轮用双拳托着下巴，一动不动。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d063",
+      "text": "过分客气地向3个不同的人提供口香糖或零食。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d064",
+      "text": "自言自语6次：“有意思……真是太有意思了……”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d065",
+      "text": "对着手机屏幕轻轻吹4次，仿佛要吹灭一根蜡烛。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d066",
+      "text": "用这句话结束4句话：“……不过可别拿这话跟我较真。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d067",
+      "text": "整整一轮反着坐在椅子上（椅背放在胸前）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d068",
+      "text": "安慰似的拍左边邻座的肩膀3次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d069",
+      "text": "把桌上的物品收拾4次，每次都让它们以毫米级精度呈直角排列。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d070",
+      "text": "毫无征兆地问3次：“你们也听见这奇怪的哔哔声了吗？”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d071",
+      "text": "连续2轮只用小指和拇指拿着手机。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d072",
+      "text": "每轮开始时都大声、正式地感谢应用招待周到，共4次。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d073",
+      "text": "摆弄自己的耳垂6次，仿佛在调试对讲机。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d074",
+      "text": "跷起二郎腿，至少连续3轮有节奏地晃脚。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d075",
+      "text": "对一位领先的玩家说：“骄兵必败，我的朋友！”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d076",
+      "text": "用T恤认真地擦眼镜（或想象中的镜片）4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d077",
+      "text": "一轮结束后大声宣布：“我闻到了阴谋的味道！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d078",
+      "text": "投票期间，在手背上平衡一支笔或一个瓶盖。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d079",
+      "text": "有玩家解释事情时，夸张地连连点头6次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d080",
+      "text": "每次显示分数时说：“光有钱也不一定快乐嘛。”共5次。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d081",
+      "text": "从杯子里喝一口，在嘴里发出声响地漱一漱，然后刻意慢慢咽下去。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d082",
+      "text": "轻轻呻吟4次，并捂住后颈，仿佛被穿堂风吹到了。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d083",
+      "text": "对着你的智能手机轻声说3遍：“你和我，联手对抗全世界。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d084",
+      "text": "用手掌在桌面上来回擦5次，然后一脸怀疑地检查有没有灰尘。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d085",
+      "text": "一轮结束后，用坚定而庄重的握手向排名最后的人表示祝贺。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d086",
+      "text": "计时器倒计时期间，像被冻住一样一动不动地保持8秒。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d087",
+      "text": "用这句话评论3个问题：“系统经典的陷阱问题！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d088",
+      "text": "游戏进行到一半时，不声不响地和房间里一个空位换一次座位。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d089",
+      "text": "每次公布结果后，都用极其挑剔的表情端详自己的指甲；共5轮。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d090",
+      "text": "忧心忡忡地问大家3次：“你们也觉得头晕吗？”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d091",
+      "text": "像遮住手牌的扑克玩家一样，用手挡住自己的屏幕。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d092",
+      "text": "热情洋溢地夸赞主持人3次，称赞他挑选屏幕颜色的眼光真是出色。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d093",
+      "text": "用手掌轻轻拍自己的额头4次（“啊，当然了，有道理！”）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d094",
+      "text": "在3次估算时声称：“这正好是我岳母家的门牌号。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d095",
+      "text": "投票阶段时一言不发地站起来，简单伸个懒腰，然后坐回去。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d096",
+      "text": "未经询问就帮一位玩家清理他座位前的碎屑或毛絮。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d097",
+      "text": "5轮之后，揉揉眼睛，小声嘟囔：“我都看成重影了。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d098",
+      "text": "斩钉截铁地说4次：“从统计学上来说，这根本不可能。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d099",
+      "text": "输入4次之后，故意把智能手机屏幕朝下扣在桌上。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d100",
+      "text": "结束时当着所有人的面庄严宣布：“不管谁赢，我都是最受欢迎的赢家。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d101",
+      "text": "用两根食指揉鼻翼6次，仿佛痒得厉害。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d102",
+      "text": "面对4个不同的问题，都一本正经地说：“Arte电视台有一部关于这个的纪录片，特别有意思。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d103",
+      "text": "不用手指，只用手腕把手机推过桌面。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d104",
+      "text": "让2位玩家认同你，说房间里“突然凉快了不少”。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d105",
+      "text": "在3次回合开始时，轻声吹奏一首耳熟能详的流行歌曲开头几个音。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d106",
+      "text": "把腿在桌下大幅伸出去4次，再惊呼一声“哎呀！”并慌忙缩回来。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d107",
+      "text": "在邻座耳边悄声说3次一个错误的暗号（例如“蓝莓蛋糕”）。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d108",
+      "text": "用手掌拍大腿5次，然后喊：“好啦，这下可要动真格了！”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d109",
+      "text": "对其他玩家的3个回答评论：“胆子不小……真不小，可惜答错了。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d110",
+      "text": "每喝一口，就把你的玻璃杯或马克杯准确地转180度。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d111",
+      "text": "问3次：“话说，分数已经按通货膨胀调整过了吗？”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d112",
+      "text": "连续两轮输入时，只能用两只手的食指交替打字。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d113",
+      "text": "睁大眼睛一言不发地盯着一位玩家5秒，然后温柔地微笑。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d114",
+      "text": "用两根手指在脖子上划过4次，并刻意摸摸自己的脉搏。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d115",
+      "text": "在4次比分更新时冷冷地说：“局势还会逆转的。记住我的话！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d116",
+      "text": "把手机屏幕上看不见的灰尘擦到裤子上5次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d117",
+      "text": "用手肘轻轻碰邻座3次，并压低声音说：“你看见了吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d118",
+      "text": "悄悄把袜子脱到一半，让脚跟露出来踩在地上。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d119",
+      "text": "在一次争论中，把“实用主义”这个词用在完全不合适的地方4次。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d120",
+      "text": "像是在找丢失的东西一样，审视着椅子底下看4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d121",
+      "text": "每轮结算后，用低沉的声音说：“历史会证明我们是对的。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d122",
+      "text": "回答5个问题时，打字的同时用左手摸鼻尖。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d123",
+      "text": "向3位不同的玩家问：“我能不能很快、很诚恳地夸你一句？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d124",
+      "text": "把手机在耳边用力摇4次，仿佛在检查里面是不是有东西在响。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d125",
+      "text": "对结果发表评论：“这里显现出的心理学现象真有意思。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d126",
+      "text": "用拳头轻轻捶自己的胸口6次，然后深吸一口气。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d127",
+      "text": "不动声色地把邻座的杯子和自己的杯子调换。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d128",
+      "text": "在3次投票时说：“我纯粹是出于同情才投这个选项的。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d129",
+      "text": "把手机夹在下巴底下半轮，同时自由地活动双手。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d130",
+      "text": "向主持人问3次：“你能重启一下 Wi-Fi 吗？我的网有点卡。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d131",
+      "text": "其他玩家大声说话时，悄悄跟着对方的口型无声地动嘴4次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d132",
+      "text": "用手捋头发6次，并对某个问题摇摇头。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d133",
+      "text": "把正确答案称作“纯粹的资产阶级宣传”3次。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d134",
+      "text": "5次刻意把饮料杯准确地放在桌子的中线上。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d135",
+      "text": "小声对某人说：“我完全知道你刚才输入了什么……”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d136",
+      "text": "用手掌轻轻拍桌子4次，然后说：“真有意思。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d137",
+      "text": "遇到估算题时声称：“这正好相当于一只小象宝宝的重量。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d138",
+      "text": "刻意地擦眉毛3次，仿佛在擦汗。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d139",
+      "text": "让某人自发地递给你一张纸巾或餐巾纸。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d140",
+      "text": "4次用深沉严肃的语气说：“生活可不是轻松愉快的，朋友们。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d141",
+      "text": "让你的笔或瓶盖“无意间”滚到邻座那里3次。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d142",
+      "text": "板着一张严肃的脸问3次：“我们最后要写会议纪要吗？”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d143",
+      "text": "得分时坐着微微鞠躬。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d144",
+      "text": "主动给邻座倒水或饮料。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d145",
+      "text": "在3轮开始时说：“现在我要穿上我的精神盔甲了。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d146",
+      "text": "等待结果揭晓时，同时挠两边手肘5次。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d147",
+      "text": "有人更换领先时，大声喊：“新国王诞生了！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d148",
+      "text": "像闹脾气的幼儿一样，赌气地把下唇往前撅4次。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d149",
+      "text": "用两根手指轻轻敲邻座的额头3次（“有人在家吗？”）。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d150",
+      "text": "每轮结束后用讽刺的语气说5次：“真是啥也没帮上，谢谢你啊，App。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d151",
+      "text": "用双手的拇指和食指比出望远镜的形状，透过它看主持人的手机。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d152",
+      "text": "在3个不同场合声称：“我刚才食指抽了一下，不是故意的！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d153",
+      "text": "让某个人问你为什么笑得这么灿烂。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d154",
+      "text": "像敲家门一样，用指关节敲邻座的椅背6次。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d155",
+      "text": "在讨论中4次用这句俗语：“住在玻璃房里的人，应该去地下室打保龄球。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d156",
+      "text": "其他人大声讨论结果时，双手捂住耳朵15秒。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d157",
+      "text": "对任意一个人说：“你简直跟我的数学老师一模一样。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d158",
+      "text": "打字前用舌尖非常不经意地润湿食指5次。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d159",
+      "text": "连续3轮评论道：“这是典型的认知失调案例。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d160",
+      "text": "双手托住头4次，然后慢慢左右摇头。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d161",
+      "text": "问全场3次：“你们到底相信命运，还是相信算法？”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d162",
+      "text": "接下来两轮，每次输入时都弯着小指打字（就像在宫廷里喝茶那样）。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d163",
+      "text": "让2名玩家同时赞同你说的一句话。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d164",
+      "text": "弹舌5次，同时向任意一名玩家眨眼。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d165",
+      "text": "在3次比分公布时说：“这不明摆着是早有预谋的操纵吗！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d166",
+      "text": "夸张地扬眉4次，然后屏住呼吸5秒。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d167",
+      "text": "问你对面的玩家：“你对目前的总体情况满意吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d168",
+      "text": "用手掌在大腿上打4次短促的鼓点。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d169",
+      "text": "在你说的3句话结尾加上：“……如果广义相对论可信的话。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d170",
+      "text": "把下巴搁在交叠的双手上4次，默默观察领先者。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d171",
+      "text": "非常严肃地问2名不同的人：“我能不能给你摸一下脉？就一下。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d172",
+      "text": "用拇指揉太阳穴5次，并喃喃自语：“专注，纯粹的专注。”",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d173",
+      "text": "在3次揭晓结果时冷冷地说：“我爷爷在战壕里就知道这事了。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d174",
+      "text": "把椅子往桌边挪近一点3次，每次都发出响亮的摩擦声。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d175",
+      "text": "拍拍一名玩家的肩膀，低声说：“别被打垮了。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d176",
+      "text": "在4个问题出现时，用一只手挡住脸，只从指缝里偷看。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d177",
+      "text": "庄严地宣布3次：“我辩称无罪！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d178",
+      "text": "用圆珠笔或手指敲5次《We Will Rock You》的节奏。",
+      "category": "行动",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d179",
+      "text": "让某人把空杯子或空瓶子交给你收走。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d180",
+      "text": "对阶段性结果评论3次：“纯粹是演给大众看的戏！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d181",
+      "text": "尽管你的饮料是冷饮，也要对着它假装吹4次热气。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d182",
+      "text": "游戏进行到一半时问：“这里是不是有杏仁味，还是我想多了？”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d183",
+      "text": "在4轮开始前伸展手指，让它们发出清脆的响声。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d184",
+      "text": "轻轻碰一下旁边的人，然后一言不发地指向墙上一块再普通不过的污渍。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d185",
+      "text": "每轮结算后，用假装感动的语气说4次：“这真是深深触动了我。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d186",
+      "text": "在3轮开始时，把椅子短暂地转向一侧90度，然后望向虚空。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d187",
+      "text": "问领先的玩家要不要喝口水，表示下一轮由你请。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d188",
+      "text": "把手机像望远镜一样放在右眼前4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d189",
+      "text": "用3次这句口头禅：“敢闯才会赢——不敢闯，就只能坐着。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d190",
+      "text": "揉眼皮5次，假装自己快要打瞌睡了。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d191",
+      "text": "问3次：“你们觉得这些问题是人写的，还是人工智能写的？”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d192",
+      "text": "用手掌拍大腿4次，并喊道：“哎呀我的天哪！”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d193",
+      "text": "真诚地送给任意一位玩家一句关于他肘部的荒诞赞美。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d194",
+      "text": "把手机平放在大腿上2轮，只从上方盲操作。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d195",
+      "text": "找4个机会说：“这可与我的价值观大相径庭。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d196",
+      "text": "刻意整整齐齐地整理衣服6次（拉平领子、扯扯袖子）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d197",
+      "text": "轻轻拍一位玩家的手背2次，并说：“很高兴你在这里。”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d198",
+      "text": "打哈欠4次，不用手捂嘴，同时看着天花板。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d199",
+      "text": "在游戏结束时评论道：“我要求立刻重新清点票数！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d200",
+      "text": "游戏结束时向所有玩家鞠躬，并喊道：“能与各位共度此刻，实属无上荣幸！”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d201",
+      "text": "用双手快速揉搓大腿5次，让它们暖和起来，仿佛你冻着了。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d202",
+      "text": "在3个不同的时机说：“这事我小学老师肯定比你更懂。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d203",
+      "text": "手臂伸直，把智能手机举远离自己4次，仿佛你有远视。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d204",
+      "text": "在你提出一个错误理论时，让2名玩家不假思索地点头附和你。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d205",
+      "text": "在4轮开始时突然轻轻一抖，仿佛手机震动了。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d206",
+      "text": "满怀信心地使用“荒谬”这个词3次。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d207",
+      "text": "用食指轻轻敲自己的下巴5次（“让我想想……”）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d208",
+      "text": "小声问你的邻座2次：“你有没有觉得我们被人盯着？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d209",
+      "text": "每次估算时，都故意把智能手机精准地放在桌子正中央。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d210",
+      "text": "用低沉的声音说4次：“笑到最后的人，是没听懂笑话的人。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d211",
+      "text": "像是很紧张似的，转动戒指或手表6次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d212",
+      "text": "让某人短暂地给你看一下他的手机屏幕。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d213",
+      "text": "轻轻朝自己的手背吹气4次，仿佛上面有只蚂蚁。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d214",
+      "text": "输掉时说3次：“真正的英雄英年早逝。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d215",
+      "text": "在4次投票时用双手托住头，大声叹气。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d216",
+      "text": "鼓励性地拍某人的大腿3次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d217",
+      "text": "沿着屏幕上边缘擦拭5次，并喃喃道：“又是这层灰。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d218",
+      "text": "在3次比分公布时说：“这纯粹是裁判胡乱判的！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d219",
+      "text": "在连续两轮中，故意双臂交叉抱在胸前，然后再输入答案。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d220",
+      "text": "问2个不同的人：“你觉得植物有感情吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d221",
+      "text": "4轮后，用双手手指在桌上敲出一阵波浪声。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d222",
+      "text": "用“……不过这事当然只限我们之间。”结束4句话。",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d223",
+      "text": "每当出现一个问题，就惊讶地挑眉6次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d224",
+      "text": "即使你根本没在听，也要对一个人赞同地点头2次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d225",
+      "text": "把手捂在嘴前10秒，装作自己刚刚说漏了什么大秘密。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d226",
+      "text": "板着脸说3次：“这事我敢拿性命担保！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d227",
+      "text": "用拇指挠下巴4次，同时目不转睛地盯着天花板。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d228",
+      "text": "一本正经地问某人：“你喝茶到底放不放盐？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d229",
+      "text": "在3次回合结算后，把手机啪地一声合上，平放在桌上。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d230",
+      "text": "评论中场结果：“队伍的士气依然高涨！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d231",
+      "text": "投票前，朝自己的指尖轻轻吹气5次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d232",
+      "text": "让某个人问你刚才嘀咕了什么。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d233",
+      "text": "用袖子擦鼻子4次，装作自己得了重感冒。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d234",
+      "text": "一轮结算后，面无表情地说3次：“这就是人生，拉丁人都这么说。”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d235",
+      "text": "接下来的两轮，把双手平放在膝盖上，只用食指敲击。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d236",
+      "text": "不说话，轻轻用自己的杯子碰邻座的杯子3次。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d237",
+      "text": "怀疑地朝房门看4次，仿佛有人敲了门。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d238",
+      "text": "答对后宣布：“我早就用尿预感到了！”",
+      "category": "语言",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d239",
+      "text": "对着熄屏手机的镜面，用双手仔细整理头发5次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d240",
+      "text": "向得分最低的玩家询问2次：“有什么我能帮你的吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d241",
+      "text": "在整轮猜数环节中，双手水平地像端托盘一样拿着你的智能手机。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d242",
+      "text": "装出义愤填膺的样子说4次：“这也太牵强了吧！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d243",
+      "text": "用指甲轻轻敲你的杯子6次，仿佛要宣布演讲开始。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d244",
+      "text": "让2位玩家同时赞同你的一句玩笑。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d245",
+      "text": "摇头4次，并嘟囔：“难以置信……简直难以置信。”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d246",
+      "text": "一轮结束后，用食指和拇指揉搓两边眉毛5秒。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d247",
+      "text": "问某人：“你不觉得这里的时间过得飞快吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d248",
+      "text": "耸肩4次，并发出清晰响亮的咂舌声。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d249",
+      "text": "一脸严肃地说3次：“笑到最后的才是赢家，朋友们！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d250",
+      "text": "在整个投票阶段，把下巴搁在左手上，一动不动。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d251",
+      "text": "戳戳邻座，轻声问：“你觉得主持人在作弊吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d252",
+      "text": "用手掌在肚子上抚摸4次，并满足地叹口气。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d253",
+      "text": "每次揭晓答案时，都评论一句：“古书里也是这么写的。”，共说3次。",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d254",
+      "text": "用手刀敲桌面5次，并坚定地点头。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d255",
+      "text": "让某个人问你为什么碰了他的胳膊。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d256",
+      "text": "连续2轮只用两只拇指拿着智能手机（其他手指不能碰手机外壳）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d257",
+      "text": "斩钉截铁地说4次：“我昨晚做梦梦到的正是这个问题！”",
+      "category": "口头",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d258",
+      "text": "在椅子上明显地向前挪到椅子边缘，共4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d259",
+      "text": "安慰似的拍任意一位玩家的肩膀2次，并摇摇头。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d260",
+      "text": "对着你的饮料轻轻吹3次，仿佛要吹掉上面的泡沫。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d261",
+      "text": "使用句式“作为一名老水手，自然知道……”3次",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d262",
+      "text": "用手抚摸自己的锁骨6次，同时专注地盯着屏幕。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d263",
+      "text": "让某人把杯子伸向你，和你碰杯。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d264",
+      "text": "计时器响起时，同时向上挑动双眉4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d265",
+      "text": "面无表情地说“别高兴得太早。”4次",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d266",
+      "text": "跷起双腿，并连续5轮换边。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d267",
+      "text": "问一个人：“你不觉得我们配合得出奇地好吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d268",
+      "text": "像沉思的侦探一样，用两根手指划过嘴唇4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d269",
+      "text": "用“纯粹是直觉，加上天才头脑。”评价一个好成绩。",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d270",
+      "text": "用指关节敲自己的肩膀5次（“干得漂亮！”）。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d271",
+      "text": "让某人问你刚才为什么呼气那么大声。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d272",
+      "text": "喝一口之前，让你的玻璃杯或马克杯绕自身轴线转4圈。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d273",
+      "text": "面色严肃地说“我们现在做的可是心理战。”3次",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d274",
+      "text": "用手遮住眼睛10秒，并喃喃道：“我不忍心看。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d275",
+      "text": "输掉一轮后，和某人握手腕而不是握手。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d276",
+      "text": "十分惊讶地看着自己的双手5次，仿佛从没见过它们。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d277",
+      "text": "在3句话结尾用气声补上一句：“……愿上帝保佑他安息。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d278",
+      "text": "同时用双手挠后脑勺4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d279",
+      "text": "询问“这里的房间是不是按风水布置的？”2次",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d280",
+      "text": "轻轻抚摸一位玩家的袖子，并说：“料子真好，这是羊毛的吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d281",
+      "text": "像防止别人偷看一样，把智能手机迅速贴到胸前再拿开，重复3次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d282",
+      "text": "咧嘴笑着说4次：“这下可算把你们全都引到我想要的位置了！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d283",
+      "text": "每轮开始后，用脚后跟轻轻敲击椅子腿。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d284",
+      "text": "问一个人：“你今天出过门、呼吸过新鲜空气了吗？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d285",
+      "text": "用T恤袖子擦鼻尖4次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d286",
+      "text": "对某个猜测评论道：“从数学角度看，简直是精准命中！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d287",
+      "text": "连续2轮只用食指和中指拿着智能手机。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d288",
+      "text": "拍左边邻座的肩膀2次，并鼓励地朝他点点头。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d289",
+      "text": "对着智能手机屏幕轻轻吹气3次，仿佛想赶走一只苍蝇。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d290",
+      "text": "板着脸说3次：“我把全部零花钱都押在这一轮了。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d291",
+      "text": "在椅子上往后挪到紧贴椅背的位置4次，然后僵直地坐着。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d292",
+      "text": "让某人帮你拿着他的杯子或包5秒钟。",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d293",
+      "text": "用手沿着桌边擦拭5次，仿佛在扫灰。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d294",
+      "text": "对某个结果评论3次：“骄兵必败，得意忘形准没好事！”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d295",
+      "text": "计时器倒计时期间，用脚趾有节奏地敲地面5次。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d296",
+      "text": "一本正经地问2个不同的人：“你相信命运还是偶然？”",
+      "category": "互动",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d297",
+      "text": "甩甩手腕4次，仿佛刚刚写到手抽筋。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d298",
+      "text": "有人得分时说3次：“分数如过眼云烟，荣誉永垂不朽。”",
+      "category": "言语",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d299",
+      "text": "在3轮开始时，双手像捧祈祷书一样捧着智能手机。",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d300",
+      "text": "整场比赛结束时站起来，深深鞠一躬并说：“感谢这场公平的较量。”",
+      "category": "动作",
+      "points": 1500,
+      "target_count": 1
+    }
+  ]
+}

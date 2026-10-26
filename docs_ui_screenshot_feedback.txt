@@ -1,0 +1,4 @@
+Nutzerfeedback / UI-Screenshot (Google Drive Datei-ID: 1-ndwrLIPJC3R6yWXXmJchhoXGeuaoBU5; abgerufen am 2026-10-24)
+Gerät im Screenshot: Android OPPO CPH2747, 1272 × 2772 px, Portrait.
+Beobachtung: UI-Elemente ragen auf schmalem Hochformat rechts aus dem sichtbaren Bereich; besonders obere Kopfzeile und Geheimmissionszeile sind zu breit. Die Abstimmungs-/Kartentexte liegen nahe am rechten Rand.
+Umsetzung: symmetrische seitliche Sicherheitsabstände, kompakter Portrait-Kopfbereich (Raumcode wird in der aktiven Partie ausgeblendet; Diagnose-/Phasen- und Markenbeschriftung verkleinert) und Missionstext/Checkbutton vertikal statt nebeneinander.

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "chaos",
+      "title": "Gemischt / Chaos-Modus",
+      "category": "Gemischt / Chaos-Modus",
+      "free": true,
+      "productId": ""
+    },
+    {
+      "id": "bizarre",
+      "title": "Bizarres Halbwissen & Kuriose Gesetze",
+      "category": "Bizarres Halbwissen & Kuriose Gesetze",
+      "free": false,
+      "productId": "mindfox_topic_bizarre_099"
+    },
+    {
+      "id": "animals",
+      "title": "Verrückte Tierwelt & Natur",
+      "category": "Verrückte Tierwelt & Natur",
+      "free": false,
+      "productId": "mindfox_topic_animals_099"
+    },
+    {
+      "id": "history",
+      "title": "Absurde Geschichte & Erfindungen",
+      "category": "Absurde Geschichte & Erfindungen",
+      "free": false,
+      "productId": "mindfox_topic_history_099"
+    }
+  ]
+}

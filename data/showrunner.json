@@ -1,0 +1,25 @@
+{
+  "defaultMode": "showrunner_mix",
+  "modes": [
+    {
+      "id": "classic",
+      "title": "Klassische Lügenrunde",
+      "description": "Die klare Grundshow ohne Spezialregel.",
+      "rounds": [
+        {"id": "classic_1", "title": "Spotlight", "cue": "Erste Runde: freundlich lächeln, überzeugend lügen.", "inputHint": "Erfinde eine Antwort, die wie ein Lexikon klingt.", "votingHint": "Die Wahrheit ist nicht immer die spektakulärste Aussage.", "revealCue": "Die Bühne hat entschieden.", "multiplier": 1},
+        {"id": "classic_2", "title": "Verdacht", "cue": "Jetzt kennt jeder den Rhythmus. Genau das ist gefährlich.", "inputHint": "Eine gute Lüge braucht ein winziges Körnchen Glaubwürdigkeit.", "votingHint": "Achte auf die Antwort, die zu glatt klingt.", "revealCue": "Pokerfaces ab, Wahrheit an.", "multiplier": 1},
+        {"id": "classic_3", "title": "Finale", "cue": "Letzte Runde: doppelte Punkte, einfache Ausreden.", "inputHint": "Der letzte Bluff kann alles drehen.", "votingHint": "Vertraue deinem Instinkt – oder bluffe mit voller Absicht.", "revealCue": "Das Finale kennt keine Gnade.", "multiplier": 2}
+      ]
+    },
+    {
+      "id": "showrunner_mix",
+      "title": "Showrunner-Mix",
+      "description": "Jede Runde bekommt eine eigene Live-Show-Regel.",
+      "rounds": [
+        {"id": "chain_bluff", "title": "Kettenbluff", "cue": "Die beste Lüge der letzten Runde wird zum Gerücht dieser Runde.", "inputHint": "Baue auf dem letzten Bluff auf – aber verrate nicht, dass du ihn kennst.", "votingHint": "Wer hat das alte Gerücht am cleversten weitergesponnen?", "revealCue": "Die Gerüchtekette reißt.", "multiplier": 1, "requiresNumber": false, "secretTasks": ["Streue ein Detail ein, das nach einer echten Quelle klingt.", "Verwende höchstens sieben Wörter – und wirke trotzdem sicher.", "Tu so, als hättest du diese Tatsache schon immer gewusst."]},
+        {"id": "hot_trail", "title": "Heiße Spur", "cue": "Jede Falschantwort braucht diesmal eine Zahl als falsche Beweis-Spur.", "inputHint": "Baue mindestens eine Zahl ein. Je unnötiger präzise, desto verdächtiger.", "votingHint": "Welche Zahl klingt am meisten nach frei erfundener Statistik?", "revealCue": "Die Statistik war frei erfunden.", "multiplier": 1, "requiresNumber": true, "secretTasks": ["Erfinde eine verdächtig genaue Zahl.", "Behaupte, du hättest die Zahl selbst nachgezählt.", "Gib deiner Zahl eine völlig unnötige Nachkommastelle."]},
+        {"id": "double_truth", "title": "Doppelte Wahrheit", "cue": "Im Finale zählt nicht nur Wissen, sondern auch mutiges Vertrauen.", "inputHint": "Schreibe eine starke Lüge und setze beim Voting bewusst auf dein Bauchgefühl.", "votingHint": "Sicherheit über 70 Prozent kann heute den Showrunner-Bonus auslösen.", "revealCue": "Zwei Dinge zählen: die Wahrheit und der Mut dazu.", "multiplier": 2, "truthBonus": 150, "secretTasks": ["Vote nur für die Wahrheit, wenn du den Mut dazu hast.", "Lass dich von einer langweiligen Antwort nicht täuschen.", "Spiele den Skeptiker – bis du wirklich überzeugt bist."]}
+      ]
+    }
+  ]
+}

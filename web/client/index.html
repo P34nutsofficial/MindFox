@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <title>Bluff &amp; Trivia – Controller</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <button id="audioEnable" class="audio-enable" type="button" aria-pressed="false">Ton aktivieren</button>
+  <main id="app" aria-live="polite">
+    <section id="join" class="view active">
+      <div class="brand-mark"><img src="../media/question_badge.png" alt=""> BLUFF <span>&amp;</span> TRIVIA</div>
+      <p class="eyebrow">DIE LÜGENRUNDE</p>
+      <img class="mascot" src="../media/mascot_trio.png" alt="Drei Quizshow-Maskottchen">
+      <h1>Mach die Wahrheit unsicher.</h1>
+      <p class="muted">Gib deinen Namen ein und tritt dem lokalen Handy-Spiel bei.</p>
+      <label for="name">Dein Name</label>
+      <input id="name" maxlength="18" autocomplete="nickname" placeholder="z. B. Alex">
+      <label for="room">Raumcode</label>
+      <input id="room" maxlength="4" inputmode="text" placeholder="ABCD">
+      <button id="joinButton" class="cta">Beitreten</button>
+      <p id="joinHint" class="hint">Tipp: Der Raumcode steht groß auf der Host-Stage.</p>
+    </section>
+    <section id="wait" class="view">
+      <div class="pulse"></div>
+      <p class="eyebrow">VERBUNDEN</p>
+      <h1>Die nächste Runde startet gleich.</h1>
+      <p id="waitText" class="muted">Die nächste Frage startet gleich.</p>
+      <button id="reconnectButton" class="secondary">Verbindung prüfen</button>
+    </section>
+    <section id="gate" class="view">
+      <p class="eyebrow">READY-GATE · ALLE AUF GO</p>
+      <h1 id="gateTitle">Bereit für die Show?</h1>
+      <p id="gateText" class="muted">Die Runde startet erst, wenn alle verbundenen Spieler bereit sind.</p>
+      <div id="gatePlayers" class="gate-players"></div>
+      <button id="readyGateButton" class="cta gate-button">ICH BIN BEREIT! · GO!</button>
+      <p id="gateHint" class="hint">Dein Button wird nach dem Tippen gesperrt.</p>
+    </section>
+    <section id="input" class="view">
+      <div id="hybridStage" class="hybrid-stage" aria-live="polite"><div class="timer-ring"><svg viewBox="0 0 100 100"><circle class="ring-track" cx="50" cy="50" r="42"></circle><circle id="hybridRing" class="ring-progress" cx="50" cy="50" r="42"></circle></svg><strong id="hybridTimer">45</strong></div><div><span class="eyebrow">HANDY-SHOW · FRAGE</span><strong id="hybridQuestion">Frage wird geladen …</strong><p id="hybridComment">Der Showrunner beobachtet jede Silbe.</p></div></div>
+      <div class="topline"><span class="eyebrow">DEINE FALSCHANTWORT</span><strong id="inputTimer">45 s</strong></div>
+      <div id="roleCard" class="role-card"><span id="roleIcon">🎭</span><div><strong id="roleTitle">Deine geheime Rolle</strong><p id="roleHint">Die Show hat einen kleinen Auftrag für dich.</p></div></div>
+      <div id="showCue" class="show-cue"><span id="showCueTitle">SHOWRUNNER</span><strong id="showCueText">Die Show läuft.</strong><p id="showCueHint">Erfinde eine glaubwürdige Falschantwort.</p></div>
+      <h1 id="questionText">Frage wird geladen …</h1>
+      <p id="questionMeta" class="hint">Kurioses Wissen · mittel</p>
+      <textarea id="lie" maxlength="75" rows="4" placeholder="Klingt echt, ist aber falsch …"></textarea>
+      <div class="counter"><span id="counter">0</span>/75</div>
+      <p id="inputHint" class="hint"></p>
+      <button id="submitLie" class="cta">Antwort abgeben</button>
+    </section>
+    <section id="vote" class="view">
+      <div id="hybridVoteStage" class="hybrid-vote-stage"><span class="eyebrow">HANDY-SHOW · ABSTIMMUNG</span><strong id="hybridVoteQuestion">Welche Aussage stimmt?</strong><span id="hybridVoteTimer">30 s</span></div>
+      <p class="eyebrow">ABSTIMMUNG</p>
+      <h1>Was ist wirklich passiert?</h1>
+      <p class="muted">Deine eigene Antwort ist ausgeblendet.</p>
+      <div id="voteCue" class="show-cue compact"><span>SHOWRUNNER</span><strong id="voteCueText">Welche Aussage ist wahr?</strong></div>
+      <label class="confidence-label" for="confidence">Wie sicher bist du? <strong><span id="confidenceValue">50</span>%</strong></label>
+      <input id="confidence" class="confidence" type="range" min="0" max="100" value="50">
+      <div id="options" class="options"></div>
+    </section>
+    <section id="result" class="view">
+      <p class="eyebrow">DEIN ERGEBNIS</p>
+      <h1 id="resultTitle">Auflösung</h1>
+      <div id="resultCue" class="show-cue compact"><span>SHOWRUNNER</span><strong id="resultCueText">Die Wahrheit kommt ans Licht.</strong></div>
+      <div id="resultCard" class="result-card"></div>
+      <button id="resultReady" class="cta">Weiter</button>
+    </section>
+  </main>
+  <script src="./audio.js"></script><script src="./app.js"></script>
+</body>
+</html>

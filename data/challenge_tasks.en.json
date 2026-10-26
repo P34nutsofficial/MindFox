@@ -1,0 +1,2105 @@
+{
+  "version": 2,
+  "tasks": [
+    {
+      "id": "d001",
+      "text": "Take at least 6 sips from your glass or bottle without using your hands.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d002",
+      "text": "Over the course of the game, gently stroke your left-hand neighbor's upper arm 4 times and whisper: 'Everything will be okay soon.'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d003",
+      "text": "Untie your shoelaces (or shoes) 5 times during the round, then tie them again with exaggerated slowness.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d004",
+      "text": "Say 'But scientists at Harvard have disproved that' completely seriously 5 times in different rounds.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d005",
+      "text": "Dramatically cover your eyes for at least 10 seconds at the end of 4 different rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d006",
+      "text": "Get at least 3 different players to give you a high five without telling them why.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d007",
+      "text": "Click your tongue loudly 8 times, always exactly when a timer drops below 10 seconds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d008",
+      "text": "End 6 of your sentences during the game with a breathy '... Hallelujah!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d009",
+      "text": "Rest your chin flat on the tabletop at least 5 times for 10 seconds each and stare straight ahead in silence.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d010",
+      "text": "Blow lightly over your own knuckles 6 times, as if you had to cool down a smoking gun.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d011",
+      "text": "Look worried and ask the group 4 times: 'Does anyone smell burnt popcorn?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d012",
+      "text": "Secretly slip an item belonging to your neighbor (e.g. a pen, a coaster) into your trouser pocket during the game.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d013",
+      "text": "Bow deeply while seated to the host's phone 3 times and murmur: 'Thank you for your wisdom.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d014",
+      "text": "Speak only in a whisper for two entire rounds, no matter how loudly the others laugh.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d015",
+      "text": "Jerk your right shoulder violently 5 times, as if you'd just received an electric shock.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d016",
+      "text": "Describe an answer from another player as 'culinarily extremely questionable' 4 times.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d017",
+      "text": "Sniff your own T-shirt collar pointedly and deeply 6 times, then nod with satisfaction.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d018",
+      "text": "Ask someone the same question 3 times ('Have you aired the place out today, by the way?'), as if you'd forgotten.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d019",
+      "text": "For three rounds, enter all answers using only the thumb of your weaker hand.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d020",
+      "text": "Yawn heartily and pointedly 5 times in a row, and get at least one other player to yawn too.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d021",
+      "text": "Comment on the scoreboard 4x with: 'Pure beginner's luck from those guys up there!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d022",
+      "text": "For 2 rounds, hold your smartphone with both hands right in front of your nose like a piece of crispbread.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d023",
+      "text": "Run your thumb and index finger over your upper lip 8x, as if you had a magnificent mustache.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d024",
+      "text": "Offer the person opposite you a sip from your glass 3x without being asked, then pull it back at the last moment with a grin.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d025",
+      "text": "Sigh deeply, theatrically, and audibly 7x over the course of the game.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 7
+    },
+    {
+      "id": "d026",
+      "text": "Wipe your sleeve over your chair or pant leg 5x and mutter: 'Lint everywhere.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d027",
+      "text": "At the start of 4 rounds, rub your hands together eagerly like a fly over a cake.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d028",
+      "text": "Use the old-fashioned word 'Preposterous!' 5x in conversation.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d029",
+      "text": "After submitting each answer, spin your phone exactly 3x in a circle on the table.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d030",
+      "text": "After a reveal, say to 3 different people, deadpan: 'That's exactly what I would have expected from you.'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d031",
+      "text": "Scratch your left eyebrow 6x with a serious expression while voting.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d032",
+      "text": "Insist with absolute conviction on at least 3 questions that your aunt wrote a book about exactly that.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d033",
+      "text": "Laugh loudly and maliciously like a cartoon villain for at least 10 seconds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d034",
+      "text": "Knock against the underside of the tabletop 5x with your knuckles and pretend it wasn't you.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d035",
+      "text": "Shake your head disappointedly toward the ceiling light 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d036",
+      "text": "Ask 3 different players: 'Are you sure your battery will last?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d037",
+      "text": "For 5 questions, hold your flat hand over your forehead like a visor to read the display.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d038",
+      "text": "Say emphatically 4x: 'Never trust anyone who types faster than they think.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d039",
+      "text": "Secretly fold a paper napkin or a piece of paper into a little boat during the game.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d040",
+      "text": "Shift restlessly back and forth in your chair 6x and complain about the cushioning.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d041",
+      "text": "Quote this completely out of context in 3 different rounds: 'May the Force be with us.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d042",
+      "text": "Secretly arrange all the other players' glasses or bottles neatly by size.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d043",
+      "text": "Keep your left eye tightly shut for an entire guessing round.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d044",
+      "text": "Say 5 times after a vote: 'My gut feeling has never let me down!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d045",
+      "text": "Massage your temples 4 times with exaggerated effort and mutter: 'Too much concentrated knowledge.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d046",
+      "text": "Demonstratively roll up your sleeves to your elbows 8 times, then roll them back down shortly afterward.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 8
+    },
+    {
+      "id": "d047",
+      "text": "In the middle of the game, ask 3 times what the exact time is, even though your smartphone is right in front of you.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d048",
+      "text": "Wink conspiratorially at the player on your right 5 times during the game.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d049",
+      "text": "After each round is resolved, drum a short flourish on the edge of the table with two fingers.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d050",
+      "text": "Announce solemnly 3 times: 'From now on, I play without mercy!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d051",
+      "text": "During every guessing round, place your smartphone flat on your head and leave it there for 5 seconds before taking it off.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d052",
+      "text": "Speak with an exaggeratedly refined accent for an entire round ('But of course!').",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d053",
+      "text": "Get 2 other players to hold out a glass or bottle to you at the same time for a toast.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d054",
+      "text": "Scratch your chin vigorously 6 times and say thoughtfully: 'Aha... I see...'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d055",
+      "text": "Say about 4 questions: 'That was written exactly like that in last week's horoscope!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d056",
+      "text": "At the end of each round, snap your fingers exactly three times with both hands.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d057",
+      "text": "Clap your hands together dramatically above your head 3 times and shout: 'Scandalous!'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d058",
+      "text": "Move your chair at least ten centimeters farther away from the table 4 times.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d059",
+      "text": "Look at someone seriously and say: 'There's something...' then point to your own nose.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d060",
+      "text": "Wipe your forehead with the back of your hand 5 times and shake off imaginary sweat.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d061",
+      "text": "Comment on 4 answers with: 'My dog would have judged that more logically.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d062",
+      "text": "Rest your chin motionless on both fists for two full rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d063",
+      "text": "Offer gum or snacks to 3 different people with exaggerated politeness.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d064",
+      "text": "Mutter to yourself 6x: 'Interesting... very interesting...'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d065",
+      "text": "Gently blow on your smartphone screen 4x, as if you were blowing out a candle.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d066",
+      "text": "End 4 statements with the sentence: '... but please don't hold me to that.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d067",
+      "text": "Sit backward on your chair for one whole round (with the backrest in front of your chest).",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d068",
+      "text": "Give the person sitting to your left 3x a comforting pat on the shoulder.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d069",
+      "text": "Arrange items on the table at perfect right angles to each other, down to the millimeter, 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d070",
+      "text": "Ask completely out of the blue 3x: 'Can you hear that strange beeping too?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d071",
+      "text": "Hold your smartphone using only your pinky and thumb for 2 rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d072",
+      "text": "At the start of 4 rounds, loudly and formally thank the app for its hospitality.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d073",
+      "text": "Tweak your earlobes 6x as if you were readjusting a walkie-talkie.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d074",
+      "text": "Cross your legs and rhythmically bounce your foot for at least 3 rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d075",
+      "text": "Say to a leading player: 'Pride comes before a fall, my friend!'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d076",
+      "text": "Thoroughly clean your glasses (or an imaginary glasses lens) on your T-shirt 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d077",
+      "text": "After one round, loudly proclaim: 'I smell a conspiracy!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d078",
+      "text": "Balance a pen or bottle cap on the back of your hand during a vote.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d079",
+      "text": "Nod your head 6x with exaggerated enthusiasm while another player explains something.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d080",
+      "text": "Say 5x when the score appears: 'Money alone doesn't make you happy, after all.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d081",
+      "text": "Take a sip from your glass, swish it noisily around your mouth, and swallow very slowly.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d082",
+      "text": "Let out 4 quiet groans and hold the back of your neck as if you’d caught a draft.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d083",
+      "text": "Whisper to your smartphone 3 times: “You and me against the rest of the world.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d084",
+      "text": "Run your palm over the tabletop 5 times and skeptically check for dust.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d085",
+      "text": "Congratulate the player in last place after a round with a firm, celebratory handshake.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d086",
+      "text": "Remain completely motionless like a statue for 8 seconds during a timer countdown.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d087",
+      "text": "Respond to 3 questions with: “Classic trick question from the system!”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d088",
+      "text": "Once during the game, switch chairs without being asked, moving to an empty seat in the room.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d089",
+      "text": "After 5 round results, examine your fingernails with an extremely critical expression.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d090",
+      "text": "Ask the group 3 times, looking concerned: “Is it just me, or is everyone feeling dizzy?”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d091",
+      "text": "Hold your hand over your screen like a poker player hiding their cards.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d092",
+      "text": "Lavishly praise the host 3 times for their excellent choice of screen colors.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d093",
+      "text": "Lightly slap your forehead 4 times with your palm (“Oh, of course, that makes sense!”).",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d094",
+      "text": "During 3 guesses, claim: “That’s exactly my mother-in-law’s house number.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d095",
+      "text": "During a voting phase, silently stand up, stretch briefly, and sit back down.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d096",
+      "text": "Without being asked, clear the crumbs or lint in front of another player’s spot.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d097",
+      "text": "After 5 rounds, briefly rub your eyes and mutter: “I’m seeing double already.”",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d098",
+      "text": "Say 4 times with firm conviction: “Statistically speaking, that’s impossible.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d099",
+      "text": "After 4 inputs, pointedly place your smartphone face down on the table.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d100",
+      "text": "Solemnly announce to everyone at the end: “No matter who wins, I’m the people’s champion.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d101",
+      "text": "Rub the sides of your nose 6 times with both index fingers, as if they were really itchy.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d102",
+      "text": "With a serious expression, say, “There’s a highly interesting documentary about that on Arte” in response to 4 different questions.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d103",
+      "text": "Push your phone across the table using your wrists, without using your fingers.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d104",
+      "text": "Get 2 other players to confirm that the room has “suddenly gotten pretty chilly.”",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d105",
+      "text": "At the start of 3 rounds, briefly and quietly whistle the opening notes of a well-known German pop song.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d106",
+      "text": "Stretch your legs way out under the table 4 times, then pull them back in with a startled “Whoa!”",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d107",
+      "text": "Whisper a fake code word (e.g. “blueberry pie”) in your neighbor’s ear 3 times.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d108",
+      "text": "Slap your thighs with your palms 5 times and shout, “All right, now things get serious!”",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d109",
+      "text": "Comment on 3 other players’ answers with: “Bold... very bold, but unfortunately wrong.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d110",
+      "text": "After every sip, rotate your glass or cup exactly 180 degrees in a circle.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d111",
+      "text": "Ask, “Have the points been adjusted for inflation yet?” 3 times.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d112",
+      "text": "For two rounds, enter everything by alternating between the index fingers of both hands, and using no other fingers.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d113",
+      "text": "Stare silently at another player with wide eyes for 5 seconds, then smile gently.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d114",
+      "text": "Run two fingers over your neck 4 times and make a point of feeling your own pulse.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d115",
+      "text": "At 4 score updates, say matter-of-factly, “The tide will turn. Mark my words!”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d116",
+      "text": "Wipe invisible dust off your smartphone screen and onto your pants 5 times.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d117",
+      "text": "Nudge the person sitting next to you lightly with your elbow 3 times and whisper, “Did you see that?”",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d118",
+      "text": "Secretly pull your socks halfway off so your heels are bare on the floor.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d119",
+      "text": "Use the word “pragmatism” 4 times in an argument where it makes absolutely no sense.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d120",
+      "text": "Look under your chair 4 times as if searching for something you lost.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d121",
+      "text": "After a round result, say in a funereal voice: 'History will prove us right.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d122",
+      "text": "Touch the tip of your nose with your left hand during 5 questions while you type.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d123",
+      "text": "Ask 3 different players: 'Can I give you a quick, honest compliment?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d124",
+      "text": "Shake your smartphone vigorously by your ear 4 times, as if checking whether something is rattling inside.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d125",
+      "text": "Comment on the result with: 'Interesting psychology on display here.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d126",
+      "text": "Tap your own chest lightly with your fist 6 times and take a deep breath.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d127",
+      "text": "Subtly swap your glass with your neighbor's glass.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d128",
+      "text": "During 3 votes, say: 'I'm voting for this option purely out of pity.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d129",
+      "text": "Tuck your smartphone under your chin for half a round while moving your hands freely.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d130",
+      "text": "Ask the host 3 times: 'Can you quickly restart the Wi-Fi? My connection is lagging.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d131",
+      "text": "Silently mouth along 4 times while another player speaks aloud.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d132",
+      "text": "Run your hand through your hair 6 times and shake your head at a question.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d133",
+      "text": "Call a correct answer 'pure bourgeois propaganda' 3 times.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d134",
+      "text": "Place your drink conspicuously right on the center line of the table 5 times.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d135",
+      "text": "Whisper to someone: 'I know exactly what you typed...''",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d136",
+      "text": "Tap the table lightly with the heel of your hand 4 times and say: 'Fascinating.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d137",
+      "text": "During a guessing question, claim: 'That's exactly the weight of a baby elephant.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d138",
+      "text": "Wipe your eyebrows conspicuously 3 times, as if wiping away sweat.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d139",
+      "text": "Get someone to spontaneously hand you a tissue or napkin.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d140",
+      "text": "Say 4 times with deep seriousness: 'Life isn't all sunshine and roses, friends.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d141",
+      "text": "Let your pen or bottle cap roll toward the person next to you 3x 'by accident.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d142",
+      "text": "Ask 3x with a serious expression: 'Are we actually writing minutes at the end?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d143",
+      "text": "Give a slight seated bow when you get points.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d144",
+      "text": "Refill your neighbor's water or drink without being asked.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d145",
+      "text": "At the start of 3 rounds, say: 'Time to put on my mental armor.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d146",
+      "text": "Scratch both elbows at the same time 5x while waiting for the reveal.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d147",
+      "text": "Shout when the lead changes: 'We have a new king!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d148",
+      "text": "Push your lower lip out sulkily 4x like a pouting toddler.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d149",
+      "text": "Gently tap your neighbor on the forehead 3x with two fingers ('Anyone home?').",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d150",
+      "text": "After a round, say in a sarcastic tone 5x: 'Thanks for nothing, app.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d151",
+      "text": "Make binoculars with the thumbs and index fingers of both hands and look through them at the host's phone.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d152",
+      "text": "On 3 different occasions, claim: 'My index finger just twitched, I didn't mean to!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d153",
+      "text": "Get someone to ask you why you're grinning so widely.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d154",
+      "text": "Knock on your neighbor's chair back 6x with your knuckles, as if it were a front door.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d155",
+      "text": "Use the saying 4x in discussions: 'People in glass houses should bowl in the basement.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d156",
+      "text": "Cover both ears for 15 seconds while the others talk loudly about a result.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d157",
+      "text": "Say to anyone: 'You remind me strikingly of my math teacher.'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d158",
+      "text": "Very discreetly moisten your index finger with the tip of your tongue 5x before typing.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d159",
+      "text": "Comment during 3 rounds: 'A classic case of cognitive dissonance.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d160",
+      "text": "Rest your head in both hands 4x and slowly shake it from side to side.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d161",
+      "text": "Ask the group 3x: “Do you actually believe in fate or algorithms?”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d162",
+      "text": "For two rounds, type every input with your little finger curled (like having tea at court).",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d163",
+      "text": "Get 2 other players to agree with you about a statement at the same time.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d164",
+      "text": "Click your tongue 5x and wink at any player while doing so.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d165",
+      "text": "At 3 score updates, say: “This has all been rigged from the start!”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d166",
+      "text": "Raise your eyebrows conspicuously 4x and hold your breath for 5 seconds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d167",
+      "text": "Ask the person opposite you: “Are you satisfied with the overall situation?”",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d168",
+      "text": "Tap out a short drumroll on your thighs with your palms 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d169",
+      "text": "End 3 of your sentences with: “... if the general theory of relativity is to be believed.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d170",
+      "text": "Rest your chin on your clasped hands 4x and silently watch the leader.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d171",
+      "text": "Ask 2 different people, completely seriously: “May I just feel your pulse for a second?”",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d172",
+      "text": "Rub your temple with your thumb 5x and mutter: “Focus, pure focus.”",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d173",
+      "text": "At 3 reveals, deadpan: “My grandpa already knew that in the trenches.”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d174",
+      "text": "Scoot your chair a little closer to the table 3x with a loud scraping noise.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d175",
+      "text": "Pat a player on the shoulder and whisper: “Don’t let them get you down.”",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d176",
+      "text": "Cover your face with one hand during 4 questions and peer through the gaps between your fingers.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d177",
+      "text": "Announce solemnly 3x: “I plead not guilty!”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d178",
+      "text": "Tap out the rhythm of “We Will Rock You” 5x with a pen or your finger.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d179",
+      "text": "Get someone to hand over their empty glass or bottle for you to clear away.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d180",
+      "text": "Comment on the interim results 3x with: “Pure theater for the masses!”",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d181",
+      "text": "Blow 4x imaginary steam off your drink, even though it's a cold drink.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d182",
+      "text": "Ask mid-game: 'Does something here smell like almonds, or am I imagining it?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d183",
+      "text": "Stretch your fingers before 4 round starts so they crack audibly.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d184",
+      "text": "Nudge the person sitting next to you and silently point to a completely ordinary spot on the wall.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d185",
+      "text": "After a round is resolved, say 4x with feigned emotion: 'I'm deeply moved.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d186",
+      "text": "At 3 round starts, briefly turn your chair 90 degrees to the side and stare into space.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d187",
+      "text": "Offer to buy the leader a sip of water for the next round.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d188",
+      "text": "Hold your smartphone up to your right eye like a telescope 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d189",
+      "text": "Use the saying 3x: 'Fortune favors the bold—and those who aren't bold stay seated.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d190",
+      "text": "Rub your eyelids 5x and pretend you're about to nod off.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d191",
+      "text": "Ask 3x: 'Do you think the questions were written by people or by AIs?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d192",
+      "text": "Slap your thigh with an open hand 4x and shout: 'Good grief!'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d193",
+      "text": "Give anyone a sincere but completely absurd compliment about their elbows.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d194",
+      "text": "Lay your smartphone flat on your thigh for 2 rounds and operate it only blindly from above.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d195",
+      "text": "Say on 4 occasions: 'That is in stark contradiction to my values.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d196",
+      "text": "Neaten your clothes with exaggerated care 6x (straighten your collar, tug at your sleeves).",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d197",
+      "text": "Gently tap another player on the back of the hand 2x and say: 'It's nice to have you here.'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d198",
+      "text": "Yawn 4x without covering your mouth, looking up at the ceiling as you do.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d199",
+      "text": "Comment on the end of the game with: 'I demand an immediate recount of the votes!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d200",
+      "text": "Bow to all the players at the end of the game and shout: 'It was an extraordinary honor!'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d201",
+      "text": "Rub both your thighs briskly with both hands 5x, as if you were cold.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d202",
+      "text": "On 3 different occasions, say: 'My elementary school teacher would have known better than that.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d203",
+      "text": "Hold your smartphone far away from you with your arm fully extended 4x, as if you were farsighted.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d204",
+      "text": "Get 2 other players to nod along with you spontaneously while you present a false theory.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d205",
+      "text": "At the start of 4 rounds, flinch briefly as if your phone had vibrated.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d206",
+      "text": "Use the word 'preposterous' 3x with absolute conviction.",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d207",
+      "text": "Tap your own chin lightly with your index finger 5x ('Let me think...').",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d208",
+      "text": "Whisper to your neighbor 2x: 'Do you get the feeling we're being watched?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d209",
+      "text": "At every guess, make a show of placing your smartphone exactly in the middle of the table.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d210",
+      "text": "Say in a deep voice 4x: 'He who laughs last didn't get the joke.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d211",
+      "text": "Twist your ring or wristwatch around 6x, as if you were nervous.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d212",
+      "text": "Get someone to briefly show you their smartphone screen.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d213",
+      "text": "Blow gently over the back of your hand 4x, as if there were an ant sitting on it.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d214",
+      "text": "Comment on a defeat 3x with: 'The true heroes die young.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d215",
+      "text": "Prop your head up with both hands and sigh loudly during 4 votes.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d216",
+      "text": "Give someone an encouraging pat on the thigh 3x.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d217",
+      "text": "Wipe across the top edge of your screen 5x and mutter: 'That pesky layer of dust again.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d218",
+      "text": "At 3 score updates, say: 'That's just pure referee bias!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d219",
+      "text": "Fold your arms conspicuously across your chest for two rounds before you tap.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d220",
+      "text": "Ask 2 different people: 'Do you actually think plants have feelings?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d221",
+      "text": "After 4 rounds, drum up a wave on the table with the fingers of both hands.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d222",
+      "text": "End 4 statements with: '... but of course, that stays between us.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d223",
+      "text": "Raise your eyebrows in surprise 6x whenever a question appears.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d224",
+      "text": "Give someone 2 approving nods, even though you weren't listening at all.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d225",
+      "text": "Hold your hand over your mouth for 10 seconds, as if you'd just let something really slip.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d226",
+      "text": "Say 3x with a serious expression: 'I'd stake my life on it!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d227",
+      "text": "Scratch your chin with your thumb 4x while staring fixedly at the ceiling.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d228",
+      "text": "Ask someone deadpan: 'Do you take your tea with or without salt?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d229",
+      "text": "After 3 round reveals, slap your smartphone face down on the table with an audible clack.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d230",
+      "text": "Comment on the interim result with: 'The team's morale is unbroken!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d231",
+      "text": "Blow lightly on your fingertips 5x before casting your vote.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d232",
+      "text": "Get someone to ask you what you just mumbled.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d233",
+      "text": "Wipe your nose with your sleeve 4x, as if you had a bad cold.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d234",
+      "text": "After a round reveal, say deadpan 3x: 'C'est la vie, as the Romans say.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d235",
+      "text": "For two rounds, keep both hands flat on your knees and tap only with your index finger.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d236",
+      "text": "Tap your glass gently against your neighbor's glass 3x without saying anything.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d237",
+      "text": "Glance suspiciously at the room's door 4x, as if someone had knocked.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d238",
+      "text": "After a correct answer, announce: 'I had a gut feeling!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d239",
+      "text": "Carefully fix your hair with both hands 5x in the mirror of your switched-off display.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d240",
+      "text": "Ask the player with the fewest points 2x: 'Can I help you with anything?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d241",
+      "text": "Hold your smartphone horizontally with both hands like a tray for an entire guessing round.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d242",
+      "text": "Say 4x with feigned indignation: 'That’s completely made up!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d243",
+      "text": "Tap your fingernails lightly against your glass 6x, as if announcing a speech.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d244",
+      "text": "Get 2 other players to agree with you about a joke at the same time.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d245",
+      "text": "Shake your head 4x and mutter: 'Unbelievable... just unbelievable.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d246",
+      "text": "After a round, rub both eyebrows with your index fingers and thumbs for 5 seconds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d247",
+      "text": "Ask someone: 'Don’t you think time flies by here?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d248",
+      "text": "Shrug 4x and make a loud, audible clicking sound with your tongue.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d249",
+      "text": "Say 3x with a serious look: 'It’s the last laugh that counts, friends!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d250",
+      "text": "Rest your chin on your left hand for an entire voting phase and don’t move.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d251",
+      "text": "Nudge your neighbor and quietly ask: 'Do you think the host is cheating?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d252",
+      "text": "Rub your stomach with your flat hand 4x and sigh contentedly.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d253",
+      "text": "Comment on a reveal 3x with: 'That’s exactly what it says in the ancient scriptures.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d254",
+      "text": "Knock on the tabletop 5x with the edge of your hand and nod decisively.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d255",
+      "text": "Get someone to ask you why you touched their arm.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d256",
+      "text": "Hold your smartphone using only both thumbs for 2 rounds (no other fingers may touch the case).",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d257",
+      "text": "Say emphatically 4x: 'I dreamed about this exact question last night!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d258",
+      "text": "Slide noticeably far forward on your chair 4x, right to the front edge.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d259",
+      "text": "Pat any other player reassuringly on the shoulder 2x and shake your head.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d260",
+      "text": "Blow gently on your drink 3x, as if trying to blow away the foam.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d261",
+      "text": "Use the sentence starter 3x: 'As an old sea dog, one naturally knows...'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d262",
+      "text": "Stroke your collarbone 6x while staring intently at the screen.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 6
+    },
+    {
+      "id": "d263",
+      "text": "Get someone to hold out their glass to you for a toast.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d264",
+      "text": "Raise both eyebrows at the same time 4x when a timer beeps.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d265",
+      "text": "Say dryly 4x: 'Don't count your chickens before they hatch.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d266",
+      "text": "Cross your legs and switch sides for 5 consecutive rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d267",
+      "text": "Ask someone: 'Don't you think we get along remarkably well?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d268",
+      "text": "Swipe two fingers across your lips 4x like a pensive detective.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d269",
+      "text": "Comment on a good result with: 'Pure intuition, paired with genius.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d270",
+      "text": "Knock on your own shoulder with your knuckles 5x ('Well done!').",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d271",
+      "text": "Get someone to ask you why you just exhaled so loudly.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d272",
+      "text": "Rotate your glass or cup around its axis 4x before taking a sip.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d273",
+      "text": "Say with a serious expression 3x: 'This is psychological warfare, what we're doing here.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d274",
+      "text": "Hold your hand in front of your eyes for 10 seconds and murmur: 'I can't watch.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d275",
+      "text": "After losing a round, shake someone's wrist instead of their hand.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d276",
+      "text": "Look at your own hands in astonishment 5x, as if you'd never seen them before.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d277",
+      "text": "End 3 statements with the whispered addition: '... may God rest his soul.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d278",
+      "text": "Scratch the back of your head with both hands at the same time 4x.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d279",
+      "text": "Ask 2x: 'Was this room actually decorated according to feng shui?'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d280",
+      "text": "Gently stroke another player's sleeve and say: 'Nice fabric, is that wool?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d281",
+      "text": "Snap your smartphone against your chest 3x at lightning speed, as if you were trying to prevent someone from peeking.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d282",
+      "text": "Say 4x with a big grin: 'This is exactly where I wanted all of you!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d283",
+      "text": "After 5 round starts, quietly drum your heels against the chair legs.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d284",
+      "text": "Ask someone: 'Have you actually been outside for some fresh air today?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d285",
+      "text": "Wipe the tip of your nose 4x with your shirt sleeve.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d286",
+      "text": "Comment on a guess with: 'Mathematically speaking, an absolute bullseye!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d287",
+      "text": "Hold your smartphone using only your index and middle fingers for 2 rounds.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d288",
+      "text": "Pat the person sitting to your left on the shoulder 2x and give them an encouraging nod.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d289",
+      "text": "Gently blow across your smartphone screen 3x, as if you were trying to shoo away a fly.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d290",
+      "text": "Say 3x with a serious expression: 'I bet my entire allowance on this round.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d291",
+      "text": "Slide all the way back against the backrest in your chair 4x, then sit bolt upright.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d292",
+      "text": "Get someone to hold their glass or bag for you for 5 seconds.",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 1
+    },
+    {
+      "id": "d293",
+      "text": "Wipe your hand along the edge of the table 5x, as if sweeping away dust.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d294",
+      "text": "Comment on a result 3x with: 'Pride comes before the big bang!'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d295",
+      "text": "Tap your toes rhythmically on the floor 5x while the timer is running.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 5
+    },
+    {
+      "id": "d296",
+      "text": "Ask 2 different people deadpan: 'Do you believe in fate or coincidence?'",
+      "category": "interaction",
+      "points": 1500,
+      "target_count": 2
+    },
+    {
+      "id": "d297",
+      "text": "Shake out your wrist 4x, as if you just got writer's cramp.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 4
+    },
+    {
+      "id": "d298",
+      "text": "When awarding points, say 3x: 'Points are fleeting, honor is eternal.'",
+      "category": "verbal",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d299",
+      "text": "At 3 round starts, hold your smartphone in both hands like a prayer book.",
+      "category": "action",
+      "points": 1500,
+      "target_count": 3
+    },
+    {
+      "id": "d300",
+      "text": "At the end of the entire match, stand up, bow deeply, and say: 'Thank you for this honest contest.'",
+      "category": "action",
+      "points": 1500,
+      "target_count": 1
+    }
+  ]
+}

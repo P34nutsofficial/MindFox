@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">MindFox app icon</title>
+  <desc id="desc">A sly fox quizmaster with a crossed-tail X.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b42"/><stop offset="1" stop-color="#28154b"/></linearGradient>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9a2e"/><stop offset="1" stop-color="#ed5421"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M120 197 142 82l92 72c15-5 31-8 48-8s33 3 48 8l92-72 22 115v90c0 86-70 156-162 156h-52c-92 0-162-70-162-156z" fill="url(#fur)" stroke="#fff4df" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M144 103 160 205l70-52zM368 103l-16 102-70-52z" fill="#fff4df" opacity=".95"/>
+  <path d="M152 258c24-31 56-35 88-12M360 258c-24-31-56-35-88-12" fill="none" stroke="#11162d" stroke-width="19" stroke-linecap="round"/>
+  <path d="M178 278c12-16 29-17 44-3M334 278c-12-16-29-17-44-3" fill="none" stroke="#fff4df" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="220" cy="300" r="13" fill="#11162d"/><circle cx="292" cy="300" r="13" fill="#11162d"/>
+  <path d="M228 352c17 14 39 14 56 0" fill="none" stroke="#11162d" stroke-width="13" stroke-linecap="round"/>
+  <path d="M198 402 256 350l58 52-58 28z" fill="#fff4df"/>
+  <path d="M198 402l58-52M314 402l-58-52" stroke="#65eff0" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="376" cy="365" r="26" fill="#65eff0"/><text x="366" y="376" font-family="DejaVu Sans, sans-serif" font-weight="800" font-size="34" fill="#11162d">?</text>
+</svg>

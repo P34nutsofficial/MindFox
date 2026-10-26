@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "groups": {
+    "bluff-party": {
+      "name": "Bluff Party",
+      "order": 20
+    },
+    "template": {
+      "name": "Template",
+      "order": 0
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/mindfox_party/motion/stage_intro.mp4": {
+      "path": "/manus-storage/game/sha256/6493bb0436d3e08254a3c92b786c6eb9d41249af1592bbe3df4235b77ac93c2a.mp4",
+      "sha256": "sha256:6493bb0436d3e08254a3c92b786c6eb9d41249af1592bbe3df4235b77ac93c2a",
+      "size": 9307962,
+      "assetType": "video",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/runtime/card_texture.jpg": {
+      "path": "/manus-storage/game/sha256/acd6ee0e9419948ddd9ec5cbfab69ee33e87c226382badb6a5c7a02ac4d78fbb.jpg",
+      "sha256": "sha256:acd6ee0e9419948ddd9ec5cbfab69ee33e87c226382badb6a5c7a02ac4d78fbb",
+      "size": 100735,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/runtime/mascot_trio.png": {
+      "path": "/manus-storage/game/sha256/525a8c55e640d50187920c4555748ce3c23af4736a73f21676ea5d95ad5940cf.png",
+      "sha256": "sha256:525a8c55e640d50187920c4555748ce3c23af4736a73f21676ea5d95ad5940cf",
+      "size": 1328723,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": true
+    },
+    "assets/mindfox_party/runtime/question_badge.png": {
+      "path": "/manus-storage/game/sha256/300ad6a50681653831317e82ae76c60f99796bb2d199a9a7db667c7219a85b49.png",
+      "sha256": "sha256:300ad6a50681653831317e82ae76c60f99796bb2d199a9a7db667c7219a85b49",
+      "size": 325631,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": true
+    },
+    "assets/mindfox_party/runtime/stage_backdrop.jpg": {
+      "path": "/manus-storage/game/sha256/73e4be81c7009926a9d28879b48e72022c6b71089cde1f1e5df786504e1e7b4c.jpg",
+      "sha256": "sha256:73e4be81c7009926a9d28879b48e72022c6b71089cde1f1e5df786504e1e7b4c",
+      "size": 289520,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": true
+    },
+    "assets/mindfox_party/runtime/stage_intro.mp4": {
+      "path": "/manus-storage/game/sha256/56c9eb7a9249ec0766ec8a2962e3c4380a9081ed90dbef88357457e590191b44.mp4",
+      "sha256": "sha256:56c9eb7a9249ec0766ec8a2962e3c4380a9081ed90dbef88357457e590191b44",
+      "size": 819644,
+      "assetType": "video",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/visuals/card_texture.png": {
+      "path": "/manus-storage/game/sha256/f2906f09c54749afe283c57301d49d2f0ef75613b53f4d3669334527b91ac002.png",
+      "sha256": "sha256:f2906f09c54749afe283c57301d49d2f0ef75613b53f4d3669334527b91ac002",
+      "size": 5449890,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/visuals/mascot_trio.png": {
+      "path": "/manus-storage/game/sha256/e976aa4da2b2f541c800fd531e46df212aaa085f9efaa96f7dbbb8a98b7617ff.png",
+      "sha256": "sha256:e976aa4da2b2f541c800fd531e46df212aaa085f9efaa96f7dbbb8a98b7617ff",
+      "size": 5997342,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/visuals/question_badge.png": {
+      "path": "/manus-storage/game/sha256/d56b09c251580c19464cdaa2b860d901a2ca5b8d86031a8ce59c43956ca636b9.png",
+      "sha256": "sha256:d56b09c251580c19464cdaa2b860d901a2ca5b8d86031a8ce59c43956ca636b9",
+      "size": 4338265,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/mindfox_party/visuals/stage_backdrop.png": {
+      "path": "/manus-storage/game/sha256/4cfb0259a079124d72209f82e6e5b44b1091768d2e0352a2fb9078d8edafd7af.png",
+      "sha256": "sha256:4cfb0259a079124d72209f82e6e5b44b1091768d2e0352a2fb9078d8edafd7af",
+      "size": 4287083,
+      "assetType": "image",
+      "groupId": "bluff-party",
+      "used": false
+    },
+    "assets/template/fonts/ManusCC0-Bold.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/30/48c1f3452238f29eb1fe4b8bddfe8fd4045045a5c26657307b8862993488148e.bin",
+      "sha256": "sha256:48c1f3452238f29eb1fe4b8bddfe8fd4045045a5c26657307b8862993488148e",
+      "size": 10308,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/fonts/NotoSansSC-VF.subset.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic/2026.09.25-typography-v1/38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412/assets/template/fonts/NotoSansSC-VF.subset.woff2",
+      "sha256": "sha256:38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412",
+      "size": 1869368,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/fonts/Rubik-VF.subset.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic-multiplayer/2026.09.25-typography-v1/eabc5c398763d783a579b6b7265181214a441a135dfd45d94cf447856c3a370e/assets/template/fonts/Rubik-VF.subset.woff2",
+      "sha256": "sha256:eabc5c398763d783a579b6b7265181214a441a135dfd45d94cf447856c3a370e",
+      "size": 46308,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "defaultMode": "showrunner_mix",
+  "modes": [
+    {
+      "id": "classic",
+      "title": "经典谎言回合",
+      "description": "没有特殊规则的纯粹基础节目。",
+      "rounds": [
+        {
+          "id": "classic_1",
+          "title": "聚光灯",
+          "cue": "第一轮：友善微笑，令人信服地撒谎。",
+          "inputHint": "编一个听起来像百科全书的答案。",
+          "votingHint": "真相未必是最惊人的说法。",
+          "revealCue": "舞台已经作出决定。",
+          "multiplier": 1
+        },
+        {
+          "id": "classic_2",
+          "title": "怀疑",
+          "cue": "现在大家都摸清了节奏。这恰恰很危险。",
+          "inputHint": "好的谎言需要一点点可信的成分。",
+          "votingHint": "留意那个听起来过于圆滑的答案。",
+          "revealCue": "收起扑克脸，真相登场。",
+          "multiplier": 1
+        },
+        {
+          "id": "classic_3",
+          "title": "决赛",
+          "cue": "最后一轮：双倍积分，轻松借口。",
+          "inputHint": "最后一次虚张声势可能扭转一切。",
+          "votingHint": "相信你的直觉——或者有意放手一搏。",
+          "revealCue": "决赛绝不留情。",
+          "multiplier": 2
+        }
+      ]
+    },
+    {
+      "id": "showrunner_mix",
+      "title": "节目制作人混合模式",
+      "description": "每一轮都有一条专属的现场节目规则。",
+      "rounds": [
+        {
+          "id": "chain_bluff",
+          "title": "连环虚张声势",
+          "cue": "上一轮最精彩的谎言，将成为本轮的传闻。",
+          "inputHint": "接着上次的虚张声势编下去——但别暴露你知道这件事。",
+          "votingHint": "谁最巧妙地把旧传闻编了下去？",
+          "revealCue": "传闻链断了。",
+          "multiplier": 1,
+          "requiresNumber": false,
+          "secretTasks": [
+            "加入一个听起来像来自真实消息源的细节。",
+            "最多用七个词——但仍要显得信心十足。",
+            "假装自己一直都知道这个事实。"
+          ]
+        },
+        {
+          "id": "hot_trail",
+          "title": "炙热线索",
+          "cue": "这次，每个错误答案都需要一个数字，作为虚假的证据线索。",
+          "inputHint": "至少加入一个数字。越是精确得毫无必要，就越可疑。",
+          "votingHint": "哪个数字听起来最像是凭空捏造的统计数据？",
+          "revealCue": "这项统计纯属捏造。",
+          "multiplier": 1,
+          "requiresNumber": true,
+          "secretTasks": [
+            "编造一个精确得可疑的数字。",
+            "声称这个数字是你亲自数出来的。",
+            "给你的数字加上一个完全没必要的小数位。"
+          ]
+        },
+        {
+          "id": "double_truth",
+          "title": "双重真相",
+          "cue": "决赛中，考验的不只是知识，还有大胆的信任。",
+          "inputHint": "编一个高明的谎言，并在投票时有意识地相信自己的直觉。",
+          "votingHint": "今天，超过70%的确信度可能触发节目制作人奖励。",
+          "revealCue": "两件事同样重要：真相，以及说出真相的勇气。",
+          "multiplier": 2,
+          "truthBonus": 150,
+          "secretTasks": [
+            "如果你有这个勇气，就只给真相投票。",
+            "别被无聊的答案骗了。",
+            "扮演怀疑论者——直到你真的信服为止。"
+          ]
+        }
+      ]
+    }
+  ]
+}

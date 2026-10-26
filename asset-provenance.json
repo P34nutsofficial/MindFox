@@ -1,0 +1,663 @@
+{
+  "assets": {
+    "assets/mindfox_party/motion/stage_intro.mp4": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:6493bb0436d3e08254a3c92b786c6eb9d41249af1592bbe3df4235b77ac93c2a",
+      "shipped": false,
+      "size": 9307962,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/runtime/card_texture.jpg": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:acd6ee0e9419948ddd9ec5cbfab69ee33e87c226382badb6a5c7a02ac4d78fbb",
+      "shipped": true,
+      "size": 100735,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/runtime/mascot_trio.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:525a8c55e640d50187920c4555748ce3c23af4736a73f21676ea5d95ad5940cf",
+      "shipped": true,
+      "size": 1328723,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/mindfox_party/runtime/question_badge.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:300ad6a50681653831317e82ae76c60f99796bb2d199a9a7db667c7219a85b49",
+      "shipped": true,
+      "size": 325631,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/mindfox_party/runtime/stage_backdrop.jpg": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:73e4be81c7009926a9d28879b48e72022c6b71089cde1f1e5df786504e1e7b4c",
+      "shipped": true,
+      "size": 289520,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/mindfox_party/runtime/stage_intro.mp4": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:56c9eb7a9249ec0766ec8a2962e3c4380a9081ed90dbef88357457e590191b44",
+      "shipped": false,
+      "size": 819644,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/visuals/card_texture.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:f2906f09c54749afe283c57301d49d2f0ef75613b53f4d3669334527b91ac002",
+      "shipped": true,
+      "size": 5449890,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/visuals/mascot_trio.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:e976aa4da2b2f541c800fd531e46df212aaa085f9efaa96f7dbbb8a98b7617ff",
+      "shipped": true,
+      "size": 5997342,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/visuals/question_badge.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:d56b09c251580c19464cdaa2b860d901a2ca5b8d86031a8ce59c43956ca636b9",
+      "shipped": true,
+      "size": 4338265,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/mindfox_party/visuals/stage_backdrop.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:4cfb0259a079124d72209f82e6e5b44b1091768d2e0352a2fb9078d8edafd7af",
+      "shipped": true,
+      "size": 4287083,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/fonts/ManusCC0-Bold.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {
+        "attributionRequired": false,
+        "commercialUseAllowed": true,
+        "copyrightNoticeRequired": false,
+        "editableProjectDistributionAllowed": true,
+        "id": "CC0-1.0",
+        "licenseNoticeRequired": false,
+        "modificationAllowed": true,
+        "modificationNoticeRequired": false,
+        "notice": "assets/template/fonts/ManusCC0-CC0.txt",
+        "redistributionAllowed": true,
+        "reusableTemplateDistributionAllowed": true,
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "origin": "external",
+      "receipt": {
+        "path": "docs/provenance/fonts/replacement-fonts.json",
+        "sha256": "sha256:3770ba3a502b63bc4591a5b6f332a1b2def5231973b5c14989977bf9dcd6e593"
+      },
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:48c1f3452238f29eb1fe4b8bddfe8fd4045045a5c26657307b8862993488148e",
+      "shipped": true,
+      "size": 10308,
+      "source": {
+        "memberPath": "fonts/ManusCC0-Bold.woff2",
+        "name": "ManusCC0-Bold"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/fonts/NotoSansSC-VF.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {
+        "id": "OFL-1.1",
+        "url": "https://openfontlicense.org/open-font-license-official-text/"
+      },
+      "origin": "template",
+      "referenceEvidence": [
+        "assets/template/fonts/noto_sans_sc_bold.tres",
+        "assets/template/fonts/noto_sans_sc_medium.tres",
+        "assets/template/fonts/noto_sans_sc_regular.tres"
+      ],
+      "regions": [],
+      "sha256": "sha256:38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412",
+      "shipped": true,
+      "size": 1869368,
+      "source": {
+        "name": "NotoSansSC-VF.subset.woff2"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "assets/template/fonts/noto_sans_sc_bold.tres",
+        "assets/template/fonts/noto_sans_sc_medium.tres",
+        "assets/template/fonts/noto_sans_sc_regular.tres"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/fonts/Rubik-VF.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "assets/template/fonts/ui_bold.tres",
+        "assets/template/fonts/ui_medium.tres",
+        "assets/template/fonts/ui_regular.tres"
+      ],
+      "regions": [],
+      "sha256": "sha256:eabc5c398763d783a579b6b7265181214a441a135dfd45d94cf447856c3a370e",
+      "shipped": true,
+      "size": 46308,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "assets/template/fonts/ui_bold.tres",
+        "assets/template/fonts/ui_medium.tres",
+        "assets/template/fonts/ui_regular.tres"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/fonts/display/ZCOOLQingKeHuangYou-Regular.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:7358992690863400c1097f04d705a806e180f333c0b625d9f377a6567cc003e4",
+      "shipped": true,
+      "size": 1620420,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "icon.svg": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "project.godot"
+      ],
+      "regions": [],
+      "sha256": "sha256:710a5baa9df048ddd51405d63edfcc2f1f209331eec480b41e721bfdcceef4b9",
+      "shipped": true,
+      "size": 1572,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "project.godot"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "web/media/card_texture.jpg": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:acd6ee0e9419948ddd9ec5cbfab69ee33e87c226382badb6a5c7a02ac4d78fbb",
+      "shipped": true,
+      "size": 100735,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/card_texture.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:f2906f09c54749afe283c57301d49d2f0ef75613b53f4d3669334527b91ac002",
+      "shipped": true,
+      "size": 5449890,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/mascot_trio.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:525a8c55e640d50187920c4555748ce3c23af4736a73f21676ea5d95ad5940cf",
+      "shipped": true,
+      "size": 1328723,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/question_badge.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:300ad6a50681653831317e82ae76c60f99796bb2d199a9a7db667c7219a85b49",
+      "shipped": true,
+      "size": 325631,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/stage_backdrop.jpg": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:73e4be81c7009926a9d28879b48e72022c6b71089cde1f1e5df786504e1e7b4c",
+      "shipped": true,
+      "size": 289520,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/stage_backdrop.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:4cfb0259a079124d72209f82e6e5b44b1091768d2e0352a2fb9078d8edafd7af",
+      "shipped": true,
+      "size": 4287083,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "web/media/stage_intro.mp4": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:56c9eb7a9249ec0766ec8a2962e3c4380a9081ed90dbef88357457e590191b44",
+      "shipped": false,
+      "size": 819644,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    }
+  },
+  "discoveries": {},
+  "downloads": {},
+  "export": {
+    "coverage": "verified",
+    "hostMedia": [
+      {
+        "contentMatches": [],
+        "path": "index.png",
+        "sha256": "sha256:3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+        "size": 21443,
+        "sourcePaths": []
+      }
+    ],
+    "pckSha256": "sha256:90ee7951f33ed248c4f37cd887674a14738f85c0792c9e891e9a87c1719577c0",
+    "profile": "release",
+    "sourceFingerprint": "sha256:b2678592322483f4084953a9fc144b0814461e69c828c984165bc5bba243d43c"
+  },
+  "procedures": {},
+  "summary": {
+    "ancestry": {
+      "ai": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "catalog": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "procedural": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      }
+    },
+    "derivatives": {
+      "retained": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "exportedHostMedia": {
+      "paths": 1,
+      "uniqueHashes": 1,
+      "unmatchedSourcePaths": 1
+    },
+    "files": {
+      "downloaded": 0,
+      "retained": 22,
+      "shipped": 19,
+      "used": 6
+    },
+    "origins": {
+      "ai": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "catalog": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "derivative": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "external": {
+        "retained": 1,
+        "shipped": 1,
+        "used": 0
+      },
+      "procedural": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "template": {
+        "retained": 1,
+        "shipped": 1,
+        "used": 1
+      },
+      "unknown": {
+        "retained": 20,
+        "shipped": 17,
+        "used": 5
+      }
+    },
+    "packs": {
+      "discovered": 0,
+      "downloaded": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "proceduralSystems": {
+      "retained": 0,
+      "used": 0
+    },
+    "spriteRegions": {
+      "retained": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "visualCoverage": {
+      "approvedRevision": 3,
+      "blueprintId": "gbp_ea982edc1d5be073433c12e3",
+      "committedRoles": 5,
+      "expectedDigest": "77c1a5722cbcd769fa455f2adadb6e1413b042366b7d7685475e826d785c34c8",
+      "fulfilledRoles": 0,
+      "roles": [
+        {
+          "id": "host_stage",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "browser_controller",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "score_reveal",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "connection_states",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "party_ui_system",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        }
+      ],
+      "search": {
+        "checkedPages": 0,
+        "outcomes": 0,
+        "overflowEvents": 0,
+        "requests": 0
+      },
+      "selectedButUnusedAssets": [],
+      "staleRenderedEvidence": [],
+      "status": "incomplete",
+      "unexplainedFallbacks": [],
+      "unresolvedRoles": [
+        "host_stage",
+        "browser_controller",
+        "score_reveal",
+        "connection_states",
+        "party_ui_system"
+      ],
+      "visualQuality": "requires_agent_review"
+    }
+  },
+  "version": 1,
+  "visualCoverage": {
+    "attempts": {},
+    "expected": {
+      "approvedRevision": 3,
+      "blueprintId": "gbp_ea982edc1d5be073433c12e3",
+      "digest": "77c1a5722cbcd769fa455f2adadb6e1413b042366b7d7685475e826d785c34c8",
+      "roles": [
+        {
+          "description": "Deine kontrastreiche Querformatansicht zeigt Raumcode, lokale Netzwerkadresse, QR-/Beitrittshinweis, Frage, Countdown, Abstimmung, Auflösung und Rundenzustand aus großer Entfernung gut lesbar.",
+          "id": "host_stage",
+          "label": "Host- und TV-Bühnenansicht"
+        },
+        {
+          "description": "Deine touchfreundlichen Controller-Ansichten führen übersichtlich durch Beitreten, Warten, Falschantwort mit 75-Zeichen-Limit, Abstimmen ohne eigene Antwort und persönliches Ergebnis.",
+          "id": "browser_controller",
+          "label": "Fokussierter Browser-Controller"
+        },
+        {
+          "description": "Deine klare Ergebnisdarstellung unterscheidet Wahrheit, Falschantworten, getäuschte Personen und Punkte gut sichtbar und kennzeichnet die doppelte Wertung in Runde 3.",
+          "id": "score_reveal",
+          "label": "Auflösung und Scoreboard"
+        },
+        {
+          "description": "Deine Oberfläche visualisiert lokale Verbindung, Wiederverbindung, Timeout, automatische Decoy-Antwort, ungültige Eingabe und Neustart mit einfachen engine-nativen Hinweisen.",
+          "id": "connection_states",
+          "label": "Verbindungs- und Fehlerzustände"
+        },
+        {
+          "description": "Deine Host- und Browseransichten verwenden eine gemeinsame kontrastreiche Farb-, Flächen- und Fokuslogik mit großen Touch-Zielen; vorhandene passende Template-Visuals dürfen unverändert oder angepasst weiterverwendet werden.",
+          "id": "party_ui_system",
+          "label": "Einheitliches Party-UI-System"
+        }
+      ]
+    },
+    "overflowEvents": 0,
+    "resolutions": {},
+    "version": 1
+  }
+}

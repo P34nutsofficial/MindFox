@@ -1,0 +1,12 @@
+.godot/
+dist/
+android/build/build/
+android/build/.gradle/
+android/build/libs/
+android/build/src/main/assets/
+android/build/src/instrumented/
+android/build/src/androidTestInstrumented/
+*.apk
+*.aab
+*.log
+captures/

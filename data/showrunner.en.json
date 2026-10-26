@@ -1,0 +1,91 @@
+{
+  "defaultMode": "showrunner_mix",
+  "modes": [
+    {
+      "id": "classic",
+      "title": "Classic Round of Lies",
+      "description": "The straightforward main show with no special rules.",
+      "rounds": [
+        {
+          "id": "classic_1",
+          "title": "Spotlight",
+          "cue": "First round: smile warmly, lie convincingly.",
+          "inputHint": "Come up with an answer that sounds like it belongs in an encyclopedia.",
+          "votingHint": "The truth isn't always the most spectacular statement.",
+          "revealCue": "The stage has decided.",
+          "multiplier": 1
+        },
+        {
+          "id": "classic_2",
+          "title": "Suspicion",
+          "cue": "Now everyone knows the rhythm. That's exactly what makes it dangerous.",
+          "inputHint": "A good lie needs a tiny grain of credibility.",
+          "votingHint": "Look out for the answer that sounds too polished.",
+          "revealCue": "Poker faces off, truth on.",
+          "multiplier": 1
+        },
+        {
+          "id": "classic_3",
+          "title": "Finale",
+          "cue": "Final round: double points, easy excuses.",
+          "inputHint": "The final bluff can turn everything around.",
+          "votingHint": "Trust your instincts—or bluff with full intent.",
+          "revealCue": "The finale shows no mercy.",
+          "multiplier": 2
+        }
+      ]
+    },
+    {
+      "id": "showrunner_mix",
+      "title": "Showrunner Mix",
+      "description": "Each round gets its own live-show rule.",
+      "rounds": [
+        {
+          "id": "chain_bluff",
+          "title": "Bluff Chain",
+          "cue": "The best lie from the last round becomes this round's rumor.",
+          "inputHint": "Build on the last bluff—but don't let on that you know it.",
+          "votingHint": "Who spun the old rumor into the cleverest new version?",
+          "revealCue": "The rumor chain breaks.",
+          "multiplier": 1,
+          "requiresNumber": false,
+          "secretTasks": [
+            "Slip in a detail that sounds like it came from a real source.",
+            "Use no more than seven words—and still sound confident.",
+            "Pretend you've always known this fact."
+          ]
+        },
+        {
+          "id": "hot_trail",
+          "title": "Hot Trail",
+          "cue": "This time, every false answer needs a number as a fake piece of evidence.",
+          "inputHint": "Include at least one number. The more unnecessarily precise, the more suspicious.",
+          "votingHint": "Which number sounds most like a made-up statistic?",
+          "revealCue": "The statistic was made up.",
+          "multiplier": 1,
+          "requiresNumber": true,
+          "secretTasks": [
+            "Make up a suspiciously precise number.",
+            "Claim you counted the number yourself.",
+            "Give your number a completely unnecessary decimal place."
+          ]
+        },
+        {
+          "id": "double_truth",
+          "title": "Double Truth",
+          "cue": "In the finale, it's not just knowledge that counts, but also trusting your instincts.",
+          "inputHint": "Write a strong lie and deliberately trust your gut when voting.",
+          "votingHint": "Confidence above 70 percent can trigger the showrunner bonus today.",
+          "revealCue": "Two things count: the truth and the courage to trust it.",
+          "multiplier": 2,
+          "truthBonus": 150,
+          "secretTasks": [
+            "Vote for the truth only if you have the courage to do so.",
+            "Don't let a boring answer fool you.",
+            "Play the skeptic—until you're truly convinced."
+          ]
+        }
+      ]
+    }
+  ]
+}
